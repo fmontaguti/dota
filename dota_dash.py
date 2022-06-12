@@ -118,7 +118,7 @@ with col7:
 # Grouping win-rate by side
 winrate_side = master_data.groupby('side')['win'].mean()
 
-col8, col9 = st.columns((1.5,1))
+col8, col9 = st.columns(2)
 with col8:
     ## Win Rate by Side (7)
     st.write('Win Rate by Side')
