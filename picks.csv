@@ -1,0 +1,2929 @@
+is_pick,match_id,order,team,hero,win
+False,6566556663,0,Evil Geniuses,Io,0
+False,6566556663,1,Tundra Esports,Mars,1
+False,6566556663,2,Evil Geniuses,Chaos Knight,0
+False,6566556663,3,Tundra Esports,Pugna,1
+True,6566556663,4,Evil Geniuses,Storm Spirit,0
+True,6566556663,5,Tundra Esports,Grimstroke,1
+True,6566556663,6,Tundra Esports,Doom,1
+True,6566556663,7,Evil Geniuses,Terrorblade,0
+False,6566556663,8,Evil Geniuses,Necrophos,0
+False,6566556663,9,Tundra Esports,Keeper of the Light,1
+False,6566556663,10,Evil Geniuses,Viper,0
+False,6566556663,11,Tundra Esports,Witch Doctor,1
+False,6566556663,12,Evil Geniuses,Timbersaw,0
+False,6566556663,13,Tundra Esports,Shadow Demon,1
+True,6566556663,14,Tundra Esports,Visage,1
+True,6566556663,15,Evil Geniuses,Nature's Prophet,0
+True,6566556663,16,Evil Geniuses,Jakiro,0
+True,6566556663,17,Tundra Esports,Void Spirit,1
+False,6566556663,18,Evil Geniuses,Troll Warlord,0
+False,6566556663,19,Tundra Esports,Pangolier,1
+False,6566556663,20,Evil Geniuses,Monkey King,0
+False,6566556663,21,Tundra Esports,Tusk,1
+True,6566556663,22,Evil Geniuses,Sand King,0
+True,6566556663,23,Tundra Esports,Wraith King,1
+True,6566559541,7,BetBoom Team,Io,0
+True,6566559541,4,BetBoom Team,Mars,0
+True,6566559541,15,BetBoom Team,Chaos Knight,0
+False,6566559541,2,BetBoom Team,Storm Spirit,0
+True,6566559541,5,BOOM Esports,Grimstroke,1
+False,6566559541,18,BetBoom Team,Terrorblade,0
+False,6566559541,0,BetBoom Team,Keeper of the Light,0
+False,6566559541,1,BOOM Esports,Visage,1
+False,6566559541,3,BOOM Esports,Nature's Prophet,1
+True,6566559541,22,BetBoom Team,Pangolier,0
+True,6566559541,6,BOOM Esports,Sand King,1
+False,6566559541,20,BetBoom Team,Tiny,0
+False,6566559541,12,BetBoom Team,Templar Assassin,0
+True,6566559541,17,BOOM Esports,Kunkka,1
+False,6566559541,13,BOOM Esports,Lina,1
+False,6566559541,8,BetBoom Team,Ember Spirit,0
+False,6566559541,9,BOOM Esports,Leshrac,1
+False,6566559541,10,BetBoom Team,Medusa,0
+False,6566559541,11,BOOM Esports,Death Prophet,1
+True,6566559541,14,BOOM Esports,Mirana,1
+True,6566559541,16,BetBoom Team,Disruptor,0
+False,6566559541,19,BOOM Esports,Dragon Knight,1
+False,6566559541,21,BOOM Esports,Invoker,1
+True,6566559541,23,BOOM Esports,Bloodseeker,1
+False,6566656802,1,Evil Geniuses,Io,0
+False,6566656802,0,Tundra Esports,Mars,1
+False,6566656802,3,Evil Geniuses,Chaos Knight,0
+True,6566656802,4,Tundra Esports,Pugna,1
+True,6566656802,6,Evil Geniuses,Storm Spirit,0
+False,6566656802,8,Tundra Esports,Grimstroke,1
+False,6566656802,11,Evil Geniuses,Doom,0
+False,6566656802,20,Tundra Esports,Necrophos,1
+False,6566656802,2,Tundra Esports,Viper,1
+False,6566656802,13,Evil Geniuses,Timbersaw,0
+False,6566656802,9,Evil Geniuses,Visage,0
+True,6566656802,7,Tundra Esports,Pangolier,1
+False,6566656802,12,Tundra Esports,Sand King,1
+False,6566656802,19,Evil Geniuses,Wraith King,0
+True,6566656802,14,Evil Geniuses,Tiny,0
+False,6566656802,18,Tundra Esports,Underlord,1
+False,6566656802,21,Evil Geniuses,Medusa,0
+True,6566656802,22,Tundra Esports,Dragon Knight,1
+True,6566656802,17,Evil Geniuses,Bloodseeker,0
+True,6566656802,5,Evil Geniuses,Enchantress,0
+False,6566656802,10,Tundra Esports,Bane,1
+True,6566656802,15,Tundra Esports,Beastmaster,1
+True,6566656802,16,Tundra Esports,Hoodwink,1
+True,6566656802,23,Evil Geniuses,Tidehunter,0
+True,6566744482,16,BetBoom Team,Io,1
+False,6566744482,3,beastcoast,Mars,0
+False,6566744482,8,BetBoom Team,Chaos Knight,1
+True,6566744482,4,BetBoom Team,Storm Spirit,1
+False,6566744482,13,beastcoast,Grimstroke,0
+True,6566744482,6,beastcoast,Keeper of the Light,0
+False,6566744482,2,BetBoom Team,Timbersaw,1
+False,6566744482,0,BetBoom Team,Shadow Demon,1
+False,6566744482,1,beastcoast,Visage,0
+True,6566744482,7,BetBoom Team,Nature's Prophet,1
+False,6566744482,9,beastcoast,Pangolier,0
+False,6566744482,19,beastcoast,Razor,0
+True,6566744482,5,beastcoast,Nyx Assassin,0
+False,6566744482,10,BetBoom Team,Lina,1
+True,6566744482,22,BetBoom Team,Slardar,1
+False,6566744482,12,BetBoom Team,Ember Spirit,1
+True,6566744482,14,beastcoast,Leshrac,0
+True,6566744482,15,BetBoom Team,Disruptor,1
+False,6566744482,21,beastcoast,Dragon Knight,0
+False,6566744482,18,BetBoom Team,Winter Wyvern,1
+False,6566744482,11,beastcoast,Shadow Shaman,0
+True,6566744482,17,beastcoast,Sven,0
+False,6566744482,20,BetBoom Team,Ancient Apparition,1
+True,6566744482,23,beastcoast,Lich,0
+False,6566781397,0,Evil Geniuses,Io,0
+False,6566781397,3,T1,Mars,1
+False,6566781397,1,T1,Pugna,1
+True,6566781397,4,Evil Geniuses,Storm Spirit,0
+True,6566781397,5,T1,Grimstroke,1
+False,6566781397,2,Evil Geniuses,Doom,0
+False,6566781397,21,T1,Terrorblade,1
+False,6566781397,9,T1,Keeper of the Light,1
+False,6566781397,12,Evil Geniuses,Viper,0
+True,6566781397,7,Evil Geniuses,Timbersaw,0
+False,6566781397,13,T1,Shadow Demon,1
+True,6566781397,23,T1,Nature's Prophet,1
+True,6566781397,14,T1,Void Spirit,1
+False,6566781397,19,T1,Troll Warlord,1
+False,6566781397,8,Evil Geniuses,Monkey King,0
+False,6566781397,18,Evil Geniuses,Razor,0
+True,6566781397,22,Evil Geniuses,Medusa,0
+True,6566781397,6,T1,Dragon Knight,1
+True,6566781397,15,Evil Geniuses,Abaddon,0
+False,6566781397,11,T1,Enchantress,1
+True,6566781397,16,Evil Geniuses,Shadow Shaman,0
+True,6566781397,17,T1,Treant Protector,1
+False,6566781397,10,Evil Geniuses,Ursa,0
+False,6566781397,20,Evil Geniuses,Anti-Mage,0
+False,6566840888,11,beastcoast,Io,1
+True,6566840888,4,BetBoom Team,Mars,0
+False,6566840888,8,BetBoom Team,Chaos Knight,0
+False,6566840888,3,beastcoast,Storm Spirit,1
+False,6566840888,21,beastcoast,Necrophos,1
+True,6566840888,7,BetBoom Team,Keeper of the Light,0
+False,6566840888,2,BetBoom Team,Timbersaw,0
+False,6566840888,0,BetBoom Team,Shadow Demon,0
+False,6566840888,1,beastcoast,Visage,1
+True,6566840888,6,beastcoast,Nature's Prophet,1
+True,6566840888,16,BetBoom Team,Jakiro,0
+True,6566840888,14,beastcoast,Void Spirit,1
+False,6566840888,9,beastcoast,Pangolier,1
+True,6566840888,5,beastcoast,Tusk,1
+False,6566840888,12,BetBoom Team,Batrider,0
+True,6566840888,15,BetBoom Team,Kunkka,0
+False,6566840888,10,BetBoom Team,Lina,0
+True,6566840888,23,beastcoast,Underlord,1
+True,6566840888,17,beastcoast,Lifestealer,1
+False,6566840888,19,beastcoast,Slardar,1
+False,6566840888,13,beastcoast,Ember Spirit,1
+False,6566840888,20,BetBoom Team,Ancient Apparition,0
+False,6566840888,18,BetBoom Team,Undying,0
+True,6566840888,22,BetBoom Team,Naga Siren,0
+False,6566878745,1,Evil Geniuses,Io,0
+False,6566878745,0,T1,Mars,1
+False,6566878745,9,Evil Geniuses,Chaos Knight,0
+True,6566878745,4,T1,Pugna,1
+False,6566878745,2,T1,Storm Spirit,1
+False,6566878745,21,Evil Geniuses,Doom,0
+False,6566878745,18,T1,Terrorblade,1
+True,6566878745,5,Evil Geniuses,Viper,0
+False,6566878745,3,Evil Geniuses,Nature's Prophet,0
+False,6566878745,19,Evil Geniuses,Sand King,0
+True,6566878745,6,Evil Geniuses,Tiny,0
+False,6566878745,8,T1,Templar Assassin,1
+True,6566878745,17,Evil Geniuses,Kunkka,0
+True,6566878745,7,T1,Lina,1
+False,6566878745,10,T1,Invoker,1
+False,6566878745,11,Evil Geniuses,Abaddon,0
+False,6566878745,12,T1,Puck,1
+False,6566878745,13,Evil Geniuses,Beastmaster,0
+True,6566878745,15,T1,Treant Protector,1
+False,6566878745,20,T1,Phantom Lancer,1
+True,6566878745,23,Evil Geniuses,Naga Siren,0
+True,6566878745,14,Evil Geniuses,Snapfire,0
+True,6566878745,16,T1,Windranger,1
+True,6566878745,22,T1,Vengeful Spirit,1
+False,6566885647,11,BOOM Esports,Io,0
+True,6566885647,5,BOOM Esports,Mars,0
+False,6566885647,12,OG,Chaos Knight,1
+False,6566885647,2,OG,Pugna,1
+True,6566885647,4,OG,Storm Spirit,1
+False,6566885647,0,OG,Grimstroke,1
+False,6566885647,3,BOOM Esports,Keeper of the Light,0
+False,6566885647,1,BOOM Esports,Timbersaw,0
+True,6566885647,16,OG,Jakiro,1
+True,6566885647,7,OG,Razor,1
+False,6566885647,21,BOOM Esports,Templar Assassin,0
+False,6566885647,19,BOOM Esports,Huskar,0
+True,6566885647,15,OG,Clockwerk,1
+True,6566885647,17,BOOM Esports,Ember Spirit,0
+False,6566885647,9,BOOM Esports,Enigma,0
+False,6566885647,13,BOOM Esports,Enchantress,0
+True,6566885647,14,BOOM Esports,Bane,0
+True,6566885647,6,BOOM Esports,Shadow Shaman,0
+False,6566885647,10,OG,Treant Protector,1
+False,6566885647,20,OG,Riki,1
+False,6566885647,8,OG,Anti-Mage,1
+False,6566885647,18,OG,Morphling,1
+True,6566885647,22,OG,Spectre,1
+True,6566885647,23,BOOM Esports,Phantom Assassin,0
+True,6567029565,7,Team Liquid,Io,0
+True,6567029565,4,Team Liquid,Mars,0
+False,6567029565,3,Thunder Awaken,Pugna,1
+False,6567029565,12,Team Liquid,Storm Spirit,0
+True,6567029565,16,Team Liquid,Grimstroke,0
+False,6567029565,8,Team Liquid,Terrorblade,0
+True,6567029565,22,Team Liquid,Necrophos,0
+False,6567029565,19,Thunder Awaken,Viper,1
+False,6567029565,0,Team Liquid,Timbersaw,0
+False,6567029565,1,Thunder Awaken,Nature's Prophet,1
+False,6567029565,10,Team Liquid,Sand King,0
+True,6567029565,15,Team Liquid,Wraith King,0
+False,6567029565,9,Thunder Awaken,Razor,1
+True,6567029565,5,Thunder Awaken,Tiny,1
+True,6567029565,23,Thunder Awaken,Batrider,1
+False,6567029565,2,Team Liquid,Templar Assassin,0
+False,6567029565,18,Team Liquid,Underlord,0
+False,6567029565,11,Thunder Awaken,Death Prophet,1
+False,6567029565,20,Team Liquid,Dragon Knight,0
+True,6567029565,14,Thunder Awaken,Bane,1
+True,6567029565,6,Thunder Awaken,Snapfire,1
+True,6567029565,17,Thunder Awaken,Spectre,1
+False,6567029565,13,Thunder Awaken,Luna,1
+False,6567029565,21,Thunder Awaken,Venomancer,1
+True,6567037281,6,Team Spirit,Io,1
+False,6567037281,0,Fnatic,Mars,0
+True,6567037281,16,Fnatic,Chaos Knight,0
+False,6567037281,2,Fnatic,Storm Spirit,0
+False,6567037281,20,Fnatic,Terrorblade,0
+True,6567037281,4,Fnatic,Keeper of the Light,0
+True,6567037281,22,Fnatic,Timbersaw,0
+False,6567037281,10,Fnatic,Void Spirit,0
+True,6567037281,7,Fnatic,Monkey King,0
+True,6567037281,17,Team Spirit,Sand King,1
+False,6567037281,1,Team Spirit,Templar Assassin,1
+True,6567037281,14,Team Spirit,Kunkka,1
+False,6567037281,18,Fnatic,Lifestealer,0
+False,6567037281,19,Team Spirit,Ember Spirit,1
+False,6567037281,3,Team Spirit,Medusa,1
+False,6567037281,9,Team Spirit,Death Prophet,1
+True,6567037281,15,Fnatic,Winter Wyvern,0
+True,6567037281,5,Team Spirit,Bane,1
+False,6567037281,11,Team Spirit,Beastmaster,1
+False,6567037281,21,Team Spirit,Tidehunter,1
+False,6567037281,13,Team Spirit,Treant Protector,1
+True,6567037281,23,Team Spirit,Anti-Mage,1
+False,6567037281,8,Fnatic,Night Stalker,0
+False,6567037281,12,Fnatic,Legion Commander,0
+True,6567037682,4,TSM FTX,Io,1
+False,6567037682,3,Gaimin Gladiators,Mars,0
+False,6567037682,13,Gaimin Gladiators,Chaos Knight,0
+False,6567037682,1,Gaimin Gladiators,Storm Spirit,0
+True,6567037682,17,Gaimin Gladiators,Keeper of the Light,0
+True,6567037682,14,Gaimin Gladiators,Pangolier,0
+False,6567037682,8,TSM FTX,Monkey King,1
+False,6567037682,0,TSM FTX,Sand King,1
+False,6567037682,12,TSM FTX,Razor,1
+False,6567037682,2,TSM FTX,Tiny,1
+True,6567037682,7,TSM FTX,Kunkka,1
+True,6567037682,16,TSM FTX,Underlord,1
+True,6567037682,15,TSM FTX,Leshrac,1
+False,6567037682,10,TSM FTX,Bloodseeker,1
+False,6567037682,19,Gaimin Gladiators,Winter Wyvern,0
+True,6567037682,22,TSM FTX,Enchantress,1
+True,6567037682,23,Gaimin Gladiators,Sven,0
+False,6567037682,18,TSM FTX,Ursa,1
+True,6567037682,5,Gaimin Gladiators,Chen,0
+True,6567037682,6,Gaimin Gladiators,Lycan,0
+False,6567037682,9,Gaimin Gladiators,Gyrocopter,0
+False,6567037682,11,Gaimin Gladiators,Bristleback,0
+False,6567037682,20,TSM FTX,Juggernaut,1
+False,6567037682,21,Gaimin Gladiators,Crystal Maiden,0
+False,6567132607,0,Fnatic,Io,0
+True,6567132607,5,Team Spirit,Mars,1
+False,6567132607,11,Team Spirit,Chaos Knight,1
+True,6567132607,7,Fnatic,Pugna,0
+True,6567132607,4,Fnatic,Storm Spirit,0
+True,6567132607,17,Team Spirit,Grimstroke,1
+False,6567132607,18,Fnatic,Terrorblade,0
+True,6567132607,6,Team Spirit,Keeper of the Light,1
+True,6567132607,23,Team Spirit,Troll Warlord,1
+False,6567132607,9,Team Spirit,Sand King,1
+True,6567132607,22,Fnatic,Wraith King,0
+True,6567132607,14,Team Spirit,Tiny,1
+False,6567132607,1,Team Spirit,Templar Assassin,1
+False,6567132607,10,Fnatic,Lina,0
+False,6567132607,20,Fnatic,Underlord,0
+False,6567132607,21,Team Spirit,Lifestealer,1
+False,6567132607,3,Team Spirit,Medusa,1
+False,6567132607,13,Team Spirit,Death Prophet,1
+True,6567132607,16,Fnatic,Dragon Knight,0
+False,6567132607,12,Fnatic,Invoker,0
+False,6567132607,2,Fnatic,Bane,0
+True,6567132607,15,Fnatic,Hoodwink,0
+False,6567132607,8,Fnatic,Anti-Mage,0
+False,6567132607,19,Team Spirit,Lone Druid,1
+False,6567143852,3,TSM FTX,Io,0
+False,6567143852,1,TSM FTX,Mars,0
+False,6567143852,11,TSM FTX,Chaos Knight,0
+False,6567143852,2,Gaimin Gladiators,Pugna,1
+True,6567143852,4,Gaimin Gladiators,Storm Spirit,1
+False,6567143852,19,TSM FTX,Necrophos,0
+True,6567143852,5,TSM FTX,Keeper of the Light,0
+False,6567143852,21,TSM FTX,Timbersaw,0
+False,6567143852,18,Gaimin Gladiators,Sand King,1
+False,6567143852,12,Gaimin Gladiators,Razor,1
+True,6567143852,17,TSM FTX,Tiny,0
+False,6567143852,9,TSM FTX,Underlord,0
+True,6567143852,6,TSM FTX,Ember Spirit,0
+False,6567143852,10,Gaimin Gladiators,Medusa,1
+True,6567143852,15,Gaimin Gladiators,Dragon Knight,1
+True,6567143852,22,Gaimin Gladiators,Bloodseeker,1
+True,6567143852,14,TSM FTX,Enchantress,0
+False,6567143852,0,Gaimin Gladiators,Bane,1
+False,6567143852,13,TSM FTX,Tidehunter,0
+True,6567143852,7,Gaimin Gladiators,Shadow Shaman,1
+False,6567143852,8,Gaimin Gladiators,Anti-Mage,1
+False,6567143852,20,Gaimin Gladiators,Night Stalker,1
+True,6567143852,23,TSM FTX,Legion Commander,0
+True,6567143852,16,Gaimin Gladiators,Crystal Maiden,1
+False,6567240449,1,Fnatic,Io,1
+True,6567240449,4,TSM FTX,Mars,0
+False,6567240449,13,Fnatic,Chaos Knight,1
+False,6567240449,3,Fnatic,Pugna,1
+False,6567240449,2,TSM FTX,Storm Spirit,0
+True,6567240449,23,Fnatic,Grimstroke,1
+True,6567240449,5,Fnatic,Keeper of the Light,1
+True,6567240449,15,TSM FTX,Viper,0
+False,6567240449,10,TSM FTX,Nature's Prophet,0
+True,6567240449,16,TSM FTX,Monkey King,0
+False,6567240449,21,Fnatic,Razor,1
+False,6567240449,0,TSM FTX,Templar Assassin,0
+False,6567240449,8,TSM FTX,Lina,0
+False,6567240449,19,Fnatic,Faceless Void,1
+True,6567240449,17,Fnatic,Lifestealer,1
+False,6567240449,9,Fnatic,Medusa,1
+True,6567240449,6,Fnatic,Dragon Knight,1
+False,6567240449,11,Fnatic,Abaddon,1
+False,6567240449,18,TSM FTX,Beastmaster,0
+True,6567240449,14,Fnatic,Hoodwink,1
+True,6567240449,22,TSM FTX,Shadow Shaman,0
+False,6567240449,20,TSM FTX,Venomancer,0
+False,6567240449,12,TSM FTX,Juggernaut,0
+True,6567240449,7,TSM FTX,Phoenix,0
+False,6567245668,2,Gaimin Gladiators,Io,1
+True,6567245668,5,Team Spirit,Mars,0
+False,6567245668,20,Gaimin Gladiators,Chaos Knight,1
+False,6567245668,1,Team Spirit,Pugna,0
+True,6567245668,4,Gaimin Gladiators,Storm Spirit,1
+True,6567245668,14,Team Spirit,Grimstroke,0
+True,6567245668,6,Team Spirit,Keeper of the Light,0
+False,6567245668,13,Team Spirit,Timbersaw,0
+False,6567245668,12,Gaimin Gladiators,Pangolier,1
+True,6567245668,7,Gaimin Gladiators,Monkey King,1
+False,6567245668,18,Gaimin Gladiators,Razor,1
+True,6567245668,17,Team Spirit,Tiny,0
+False,6567245668,9,Team Spirit,Templar Assassin,0
+False,6567245668,10,Gaimin Gladiators,Lina,1
+False,6567245668,11,Team Spirit,Medusa,0
+True,6567245668,16,Gaimin Gladiators,Mirana,1
+True,6567245668,15,Gaimin Gladiators,Dragon Knight,1
+False,6567245668,8,Gaimin Gladiators,Invoker,1
+True,6567245668,22,Gaimin Gladiators,Enchantress,1
+False,6567245668,0,Gaimin Gladiators,Bane,1
+False,6567245668,19,Team Spirit,Undying,0
+True,6567245668,23,Team Spirit,Windranger,0
+False,6567245668,3,Team Spirit,Chen,0
+False,6567245668,21,Team Spirit,Crystal Maiden,0
+False,6567327850,0,Fnatic,Io,1
+False,6567327850,11,TSM FTX,Mars,0
+False,6567327850,3,TSM FTX,Pugna,0
+False,6567327850,21,TSM FTX,Storm Spirit,0
+False,6567327850,20,Fnatic,Doom,1
+False,6567327850,8,Fnatic,Terrorblade,1
+False,6567327850,1,TSM FTX,Keeper of the Light,0
+False,6567327850,19,TSM FTX,Pangolier,0
+True,6567327850,17,TSM FTX,Razor,0
+True,6567327850,14,TSM FTX,Nyx Assassin,0
+True,6567327850,23,TSM FTX,Lina,0
+True,6567327850,7,Fnatic,Medusa,1
+True,6567327850,5,TSM FTX,Dragon Knight,0
+True,6567327850,15,Fnatic,Abaddon,1
+False,6567327850,2,Fnatic,Bane,1
+True,6567327850,22,Fnatic,Beastmaster,1
+True,6567327850,16,Fnatic,Tidehunter,1
+True,6567327850,4,Fnatic,Shadow Shaman,1
+False,6567327850,13,TSM FTX,Treant Protector,0
+False,6567327850,18,Fnatic,Phantom Lancer,1
+False,6567327850,12,Fnatic,Anti-Mage,1
+False,6567327850,9,TSM FTX,Brewmaster,0
+True,6567327850,6,TSM FTX,Phoenix,0
+False,6567327850,10,Fnatic,Drow Ranger,1
+True,6567330746,7,Gaimin Gladiators,Io,1
+True,6567330746,4,Gaimin Gladiators,Mars,1
+False,6567330746,12,Gaimin Gladiators,Chaos Knight,1
+False,6567330746,0,Gaimin Gladiators,Pugna,1
+False,6567330746,1,Team Spirit,Storm Spirit,0
+False,6567330746,8,Gaimin Gladiators,Grimstroke,1
+True,6567330746,23,Team Spirit,Doom,0
+False,6567330746,18,Gaimin Gladiators,Necrophos,1
+True,6567330746,5,Team Spirit,Keeper of the Light,0
+False,6567330746,21,Team Spirit,Viper,0
+False,6567330746,20,Gaimin Gladiators,Timbersaw,1
+False,6567330746,10,Gaimin Gladiators,Monkey King,1
+True,6567330746,6,Team Spirit,Sand King,0
+False,6567330746,11,Team Spirit,Razor,0
+True,6567330746,17,Team Spirit,Templar Assassin,0
+False,6567330746,19,Team Spirit,Huskar,0
+True,6567330746,15,Gaimin Gladiators,Ember Spirit,1
+False,6567330746,9,Team Spirit,Medusa,0
+True,6567330746,16,Gaimin Gladiators,Mirana,1
+True,6567330746,22,Gaimin Gladiators,Bloodseeker,1
+True,6567330746,14,Team Spirit,Winter Wyvern,0
+False,6567330746,3,Team Spirit,Enchantress,0
+False,6567330746,2,Gaimin Gladiators,Bane,1
+False,6567330746,13,Team Spirit,Night Stalker,0
+False,6567917643,1,BetBoom Team,Io,0
+False,6567917643,10,Tundra Esports,Mars,1
+True,6567917643,4,Tundra Esports,Chaos Knight,1
+True,6567917643,7,Tundra Esports,Pugna,1
+True,6567917643,5,BetBoom Team,Storm Spirit,0
+False,6567917643,13,BetBoom Team,Grimstroke,0
+False,6567917643,9,BetBoom Team,Doom,0
+True,6567917643,17,BetBoom Team,Necrophos,0
+True,6567917643,6,BetBoom Team,Keeper of the Light,0
+False,6567917643,2,Tundra Esports,Visage,1
+False,6567917643,0,Tundra Esports,Nature's Prophet,1
+True,6567917643,15,Tundra Esports,Void Spirit,1
+False,6567917643,3,BetBoom Team,Pangolier,0
+False,6567917643,20,Tundra Esports,Monkey King,1
+False,6567917643,21,BetBoom Team,Sand King,0
+False,6567917643,19,BetBoom Team,Batrider,0
+False,6567917643,8,Tundra Esports,Underlord,1
+True,6567917643,22,Tundra Esports,Death Prophet,1
+False,6567917643,12,Tundra Esports,Dragon Knight,1
+False,6567917643,11,BetBoom Team,Beastmaster,0
+True,6567917643,14,BetBoom Team,Hoodwink,0
+True,6567917643,23,BetBoom Team,Tidehunter,0
+True,6567917643,16,Tundra Esports,Shadow Shaman,1
+False,6567917643,18,Tundra Esports,Naga Siren,1
+True,6567920917,14,OG,Io,0
+False,6567920917,10,T1,Mars,1
+True,6567920917,17,OG,Chaos Knight,0
+False,6567920917,1,OG,Pugna,0
+True,6567920917,5,OG,Storm Spirit,0
+True,6567920917,6,OG,Grimstroke,0
+False,6567920917,3,OG,Keeper of the Light,0
+False,6567920917,0,T1,Timbersaw,1
+False,6567920917,2,T1,Razor,1
+False,6567920917,8,T1,Tiny,1
+True,6567920917,7,T1,Lina,1
+False,6567920917,21,OG,Underlord,0
+True,6567920917,23,OG,Slardar,0
+True,6567920917,4,T1,Dragon Knight,1
+False,6567920917,13,OG,Bane,0
+False,6567920917,18,T1,Beastmaster,1
+False,6567920917,19,OG,Tidehunter,0
+True,6567920917,15,T1,Shadow Shaman,1
+False,6567920917,9,OG,Treant Protector,0
+True,6567920917,16,T1,Undying,1
+False,6567920917,12,T1,Spectre,1
+False,6567920917,20,T1,Night Stalker,1
+True,6567920917,22,T1,Brewmaster,1
+False,6567920917,11,OG,Skywrath Mage,0
+True,6568000902,7,BetBoom Team,Io,1
+False,6568000902,9,Tundra Esports,Mars,0
+True,6568000902,4,BetBoom Team,Chaos Knight,1
+True,6568000902,5,Tundra Esports,Pugna,0
+False,6568000902,13,Tundra Esports,Storm Spirit,0
+False,6568000902,2,BetBoom Team,Grimstroke,1
+True,6568000902,6,Tundra Esports,Doom,0
+False,6568000902,20,BetBoom Team,Viper,1
+False,6568000902,21,Tundra Esports,Timbersaw,0
+False,6568000902,1,Tundra Esports,Visage,0
+False,6568000902,3,Tundra Esports,Nature's Prophet,0
+False,6568000902,12,BetBoom Team,Void Spirit,1
+False,6568000902,0,BetBoom Team,Pangolier,1
+False,6568000902,19,Tundra Esports,Batrider,0
+False,6568000902,11,Tundra Esports,Leshrac,0
+False,6568000902,10,BetBoom Team,Medusa,1
+True,6568000902,16,BetBoom Team,Death Prophet,1
+True,6568000902,14,Tundra Esports,Dragon Knight,0
+False,6568000902,8,BetBoom Team,Beastmaster,1
+True,6568000902,15,BetBoom Team,Shadow Shaman,1
+False,6568000902,18,BetBoom Team,Ancient Apparition,1
+True,6568000902,22,BetBoom Team,Ursa,1
+True,6568000902,17,Tundra Esports,Snapfire,0
+True,6568000902,23,Tundra Esports,Skywrath Mage,0
+False,6568003158,3,T1,Io,1
+True,6568003158,7,OG,Mars,0
+False,6568003158,0,OG,Pugna,0
+True,6568003158,4,OG,Storm Spirit,0
+False,6568003158,2,OG,Grimstroke,0
+False,6568003158,9,T1,Keeper of the Light,1
+True,6568003158,23,T1,Viper,1
+False,6568003158,1,T1,Timbersaw,1
+False,6568003158,13,T1,Monkey King,1
+False,6568003158,19,T1,Razor,1
+True,6568003158,22,OG,Templar Assassin,0
+True,6568003158,15,OG,Clockwerk,0
+False,6568003158,21,T1,Faceless Void,1
+True,6568003158,17,T1,Lifestealer,1
+False,6568003158,10,OG,Dragon Knight,0
+True,6568003158,14,T1,Puck,1
+False,6568003158,20,OG,Beastmaster,0
+False,6568003158,18,OG,Tidehunter,0
+True,6568003158,5,T1,Shadow Shaman,1
+True,6568003158,6,T1,Treant Protector,1
+False,6568003158,12,OG,Riki,0
+False,6568003158,8,OG,Anti-Mage,0
+True,6568003158,16,OG,Phoenix,0
+False,6568003158,11,T1,Lion,1
+True,6568099598,15,OG,Io,0
+False,6568099598,2,OG,Chaos Knight,0
+False,6568099598,0,OG,Pugna,0
+True,6568099598,6,Tundra Esports,Grimstroke,1
+True,6568099598,14,Tundra Esports,Doom,1
+True,6568099598,23,Tundra Esports,Keeper of the Light,1
+True,6568099598,7,OG,Viper,0
+False,6568099598,1,Tundra Esports,Timbersaw,1
+True,6568099598,5,Tundra Esports,Visage,1
+False,6568099598,9,Tundra Esports,Monkey King,1
+False,6568099598,21,Tundra Esports,Tusk,1
+False,6568099598,10,OG,Wraith King,0
+False,6568099598,3,Tundra Esports,Razor,1
+False,6568099598,20,OG,Batrider,0
+False,6568099598,13,Tundra Esports,Faceless Void,1
+False,6568099598,19,Tundra Esports,Slardar,1
+True,6568099598,16,OG,Leshrac,0
+True,6568099598,4,OG,Dragon Knight,0
+False,6568099598,12,OG,Abaddon,0
+True,6568099598,22,OG,Treant Protector,0
+False,6568099598,8,OG,Naga Siren,0
+False,6568099598,18,OG,Windranger,0
+True,6568099598,17,Tundra Esports,Juggernaut,1
+False,6568099598,11,Tundra Esports,Weaver,1
+True,6568101413,7,Evil Geniuses,Io,1
+False,6568101413,3,BOOM Esports,Mars,0
+False,6568101413,18,Evil Geniuses,Chaos Knight,1
+False,6568101413,1,BOOM Esports,Pugna,0
+True,6568101413,4,Evil Geniuses,Storm Spirit,1
+False,6568101413,0,Evil Geniuses,Grimstroke,1
+False,6568101413,20,Evil Geniuses,Terrorblade,1
+False,6568101413,13,BOOM Esports,Viper,0
+True,6568101413,16,Evil Geniuses,Witch Doctor,1
+False,6568101413,11,BOOM Esports,Timbersaw,0
+False,6568101413,2,Evil Geniuses,Monkey King,1
+True,6568101413,15,Evil Geniuses,Razor,1
+True,6568101413,22,Evil Geniuses,Templar Assassin,1
+False,6568101413,10,Evil Geniuses,Lina,1
+False,6568101413,19,BOOM Esports,Slardar,0
+True,6568101413,5,BOOM Esports,Dragon Knight,0
+True,6568101413,17,BOOM Esports,Queen of Pain,0
+False,6568101413,12,Evil Geniuses,Beastmaster,1
+True,6568101413,6,BOOM Esports,Hoodwink,0
+False,6568101413,9,BOOM Esports,Tidehunter,0
+True,6568101413,14,BOOM Esports,Treant Protector,0
+False,6568101413,8,Evil Geniuses,Ursa,1
+False,6568101413,21,BOOM Esports,Legion Commander,0
+True,6568101413,23,BOOM Esports,Weaver,0
+False,6568205642,0,BOOM Esports,Io,1
+False,6568205642,1,Evil Geniuses,Mars,0
+True,6568205642,4,BOOM Esports,Pugna,1
+False,6568205642,2,BOOM Esports,Storm Spirit,1
+True,6568205642,5,Evil Geniuses,Grimstroke,0
+False,6568205642,11,Evil Geniuses,Timbersaw,0
+False,6568205642,10,BOOM Esports,Void Spirit,1
+False,6568205642,19,Evil Geniuses,Pangolier,0
+False,6568205642,3,Evil Geniuses,Monkey King,0
+False,6568205642,13,Evil Geniuses,Sand King,0
+True,6568205642,7,BOOM Esports,Razor,1
+False,6568205642,18,BOOM Esports,Templar Assassin,1
+True,6568205642,15,BOOM Esports,Kunkka,1
+True,6568205642,22,BOOM Esports,Underlord,1
+True,6568205642,17,Evil Geniuses,Ember Spirit,0
+True,6568205642,6,Evil Geniuses,Dragon Knight,0
+False,6568205642,8,BOOM Esports,Bloodseeker,1
+True,6568205642,16,BOOM Esports,Abaddon,1
+False,6568205642,12,BOOM Esports,Enchantress,1
+False,6568205642,9,Evil Geniuses,Tidehunter,0
+True,6568205642,23,Evil Geniuses,Ursa,0
+False,6568205642,20,BOOM Esports,Phantom Assassin,1
+True,6568205642,14,Evil Geniuses,Chen,0
+False,6568205642,21,Evil Geniuses,Brewmaster,0
+True,6568401515,4,TSM FTX,Io,1
+False,6568401515,3,Team Spirit,Mars,0
+True,6568401515,7,TSM FTX,Chaos Knight,1
+False,6568401515,11,Team Spirit,Pugna,0
+False,6568401515,1,Team Spirit,Storm Spirit,0
+False,6568401515,12,TSM FTX,Grimstroke,1
+False,6568401515,2,TSM FTX,Keeper of the Light,1
+True,6568401515,23,Team Spirit,Viper,0
+True,6568401515,17,Team Spirit,Monkey King,0
+False,6568401515,19,Team Spirit,Batrider,0
+False,6568401515,21,Team Spirit,Kunkka,0
+False,6568401515,18,TSM FTX,Lina,1
+True,6568401515,15,TSM FTX,Underlord,1
+False,6568401515,9,Team Spirit,Leshrac,0
+False,6568401515,8,TSM FTX,Medusa,1
+True,6568401515,16,TSM FTX,Death Prophet,1
+True,6568401515,5,Team Spirit,Dragon Knight,0
+False,6568401515,10,TSM FTX,Invoker,1
+False,6568401515,20,TSM FTX,Queen of Pain,1
+True,6568401515,22,TSM FTX,Enchantress,1
+False,6568401515,0,TSM FTX,Bane,1
+True,6568401515,14,Team Spirit,Shadow Shaman,0
+False,6568401515,13,Team Spirit,Rubick,0
+True,6568401515,6,Team Spirit,Techies,0
+False,6568412845,9,Fnatic,Io,1
+False,6568412845,13,Fnatic,Mars,1
+False,6568412845,3,Fnatic,Pugna,1
+True,6568412845,4,Team Liquid,Grimstroke,0
+True,6568412845,15,Team Liquid,Doom,0
+False,6568412845,19,Fnatic,Terrorblade,1
+False,6568412845,2,Team Liquid,Keeper of the Light,0
+False,6568412845,21,Fnatic,Timbersaw,1
+True,6568412845,16,Team Liquid,Visage,0
+True,6568412845,22,Team Liquid,Troll Warlord,0
+False,6568412845,20,Team Liquid,Pangolier,0
+True,6568412845,17,Fnatic,Wraith King,1
+False,6568412845,1,Fnatic,Razor,1
+True,6568412845,7,Team Liquid,Tiny,0
+False,6568412845,0,Team Liquid,Templar Assassin,0
+False,6568412845,12,Team Liquid,Lina,0
+False,6568412845,8,Team Liquid,Medusa,0
+True,6568412845,14,Fnatic,Death Prophet,1
+False,6568412845,10,Team Liquid,Dragon Knight,0
+False,6568412845,11,Fnatic,Beastmaster,1
+False,6568412845,18,Team Liquid,Tidehunter,0
+True,6568412845,5,Fnatic,Shadow Shaman,1
+True,6568412845,6,Fnatic,Treant Protector,1
+True,6568412845,23,Fnatic,Magnus,1
+False,6568508914,3,TSM FTX,Io,0
+False,6568508914,1,TSM FTX,Mars,0
+True,6568508914,15,Team Spirit,Chaos Knight,1
+False,6568508914,0,Team Spirit,Pugna,1
+True,6568508914,5,TSM FTX,Storm Spirit,0
+False,6568508914,13,TSM FTX,Grimstroke,0
+True,6568508914,17,TSM FTX,Necrophos,0
+True,6568508914,4,Team Spirit,Keeper of the Light,1
+False,6568508914,18,Team Spirit,Troll Warlord,1
+False,6568508914,9,TSM FTX,Pangolier,0
+True,6568508914,6,TSM FTX,Monkey King,0
+False,6568508914,11,TSM FTX,Sand King,0
+True,6568508914,22,Team Spirit,Templar Assassin,1
+True,6568508914,23,TSM FTX,Huskar,0
+True,6568508914,7,Team Spirit,Ember Spirit,1
+False,6568508914,8,Team Spirit,Medusa,1
+False,6568508914,21,TSM FTX,Death Prophet,0
+False,6568508914,2,Team Spirit,Dragon Knight,1
+True,6568508914,14,TSM FTX,Abaddon,0
+False,6568508914,10,Team Spirit,Enchantress,1
+False,6568508914,12,Team Spirit,Bane,1
+False,6568508914,19,TSM FTX,Anti-Mage,0
+False,6568508914,20,Team Spirit,Juggernaut,1
+True,6568508914,16,Team Spirit,Phoenix,1
+False,6568523627,10,Fnatic,Io,0
+False,6568523627,0,Fnatic,Mars,0
+False,6568523627,1,Team Liquid,Pugna,1
+False,6568523627,18,Fnatic,Storm Spirit,0
+False,6568523627,2,Fnatic,Grimstroke,0
+True,6568523627,15,Fnatic,Terrorblade,0
+True,6568523627,23,Team Liquid,Keeper of the Light,1
+False,6568523627,19,Team Liquid,Viper,1
+True,6568523627,22,Fnatic,Pangolier,0
+False,6568523627,12,Fnatic,Sand King,0
+False,6568523627,13,Team Liquid,Wraith King,1
+False,6568523627,11,Team Liquid,Templar Assassin,1
+False,6568523627,21,Team Liquid,Underlord,1
+False,6568523627,3,Team Liquid,Medusa,1
+False,6568523627,9,Team Liquid,Death Prophet,1
+True,6568523627,5,Team Liquid,Dragon Knight,1
+True,6568523627,7,Fnatic,Abaddon,0
+False,6568523627,8,Fnatic,Beastmaster,0
+True,6568523627,6,Team Liquid,Hoodwink,1
+True,6568523627,4,Fnatic,Shadow Shaman,0
+True,6568523627,14,Team Liquid,Undying,1
+True,6568523627,17,Team Liquid,Spectre,1
+True,6568523627,16,Fnatic,Magnus,0
+False,6568523627,20,Fnatic,Zeus,0
+True,6568623245,7,Team Spirit,Io,1
+False,6568623245,9,Thunder Awaken,Mars,0
+False,6568623245,11,Thunder Awaken,Chaos Knight,0
+False,6568623245,2,Team Spirit,Pugna,1
+True,6568623245,4,Team Spirit,Storm Spirit,1
+False,6568623245,3,Thunder Awaken,Keeper of the Light,0
+False,6568623245,12,Team Spirit,Viper,1
+False,6568623245,0,Team Spirit,Timbersaw,1
+True,6568623245,5,Thunder Awaken,Tiny,0
+True,6568623245,6,Thunder Awaken,Nyx Assassin,0
+False,6568623245,13,Thunder Awaken,Templar Assassin,0
+True,6568623245,22,Team Spirit,Underlord,1
+False,6568623245,8,Team Spirit,Medusa,1
+False,6568623245,10,Team Spirit,Death Prophet,1
+False,6568623245,1,Thunder Awaken,Bane,0
+False,6568623245,21,Thunder Awaken,Beastmaster,0
+False,6568623245,18,Team Spirit,Tidehunter,1
+True,6568623245,15,Team Spirit,Shadow Shaman,1
+True,6568623245,14,Thunder Awaken,Lich,0
+True,6568623245,16,Team Spirit,Anti-Mage,1
+True,6568623245,23,Thunder Awaken,Snapfire,0
+True,6568623245,17,Thunder Awaken,Spectre,0
+False,6568623245,20,Team Spirit,Night Stalker,1
+False,6568623245,19,Thunder Awaken,Magnus,0
+True,6568647082,5,Team Liquid,Io,1
+False,6568647082,1,Team Liquid,Mars,1
+False,6568647082,11,Team Liquid,Chaos Knight,1
+False,6568647082,3,Team Liquid,Storm Spirit,1
+False,6568647082,0,Gaimin Gladiators,Grimstroke,0
+False,6568647082,2,Gaimin Gladiators,Keeper of the Light,0
+False,6568647082,10,Gaimin Gladiators,Timbersaw,0
+False,6568647082,12,Gaimin Gladiators,Void Spirit,0
+False,6568647082,19,Team Liquid,Pangolier,1
+True,6568647082,23,Team Liquid,Sand King,1
+True,6568647082,6,Team Liquid,Razor,1
+False,6568647082,20,Gaimin Gladiators,Tiny,0
+True,6568647082,14,Team Liquid,Clockwerk,1
+False,6568647082,9,Team Liquid,Lina,1
+False,6568647082,18,Gaimin Gladiators,Ember Spirit,0
+False,6568647082,8,Gaimin Gladiators,Leshrac,0
+True,6568647082,4,Gaimin Gladiators,Dragon Knight,0
+True,6568647082,15,Gaimin Gladiators,Bloodseeker,0
+True,6568647082,17,Team Liquid,Enigma,1
+False,6568647082,21,Team Liquid,Puck,1
+False,6568647082,13,Team Liquid,Enchantress,1
+True,6568647082,7,Gaimin Gladiators,Bane,0
+True,6568647082,16,Gaimin Gladiators,Hoodwink,0
+True,6568647082,22,Gaimin Gladiators,Broodmother,0
+True,6568705223,7,Team Spirit,Io,1
+True,6568705223,4,Team Spirit,Mars,1
+False,6568705223,11,Thunder Awaken,Chaos Knight,0
+False,6568705223,2,Team Spirit,Pugna,1
+False,6568705223,3,Thunder Awaken,Storm Spirit,0
+False,6568705223,13,Thunder Awaken,Grimstroke,0
+True,6568705223,17,Thunder Awaken,Terrorblade,0
+False,6568705223,0,Team Spirit,Timbersaw,1
+True,6568705223,22,Team Spirit,Pangolier,1
+True,6568705223,5,Thunder Awaken,Sand King,0
+True,6568705223,23,Thunder Awaken,Tiny,0
+False,6568705223,12,Team Spirit,Batrider,1
+False,6568705223,10,Team Spirit,Kunkka,1
+False,6568705223,19,Thunder Awaken,Underlord,0
+False,6568705223,20,Team Spirit,Ember Spirit,1
+True,6568705223,16,Team Spirit,Medusa,1
+True,6568705223,6,Thunder Awaken,Mirana,0
+False,6568705223,18,Team Spirit,Invoker,1
+True,6568705223,14,Thunder Awaken,Abaddon,0
+False,6568705223,21,Thunder Awaken,Puck,0
+False,6568705223,1,Thunder Awaken,Bane,0
+False,6568705223,9,Thunder Awaken,Anti-Mage,0
+False,6568705223,8,Team Spirit,Spectre,1
+True,6568705223,15,Team Spirit,Rubick,1
+False,6568751767,1,Gaimin Gladiators,Io,0
+False,6568751767,3,Gaimin Gladiators,Mars,0
+False,6568751767,13,Gaimin Gladiators,Chaos Knight,0
+False,6568751767,0,Team Liquid,Storm Spirit,1
+True,6568751767,4,Team Liquid,Grimstroke,1
+False,6568751767,20,Team Liquid,Doom,1
+True,6568751767,15,Team Liquid,Keeper of the Light,1
+False,6568751767,18,Team Liquid,Viper,1
+False,6568751767,21,Gaimin Gladiators,Timbersaw,0
+True,6568751767,22,Team Liquid,Visage,1
+True,6568751767,17,Gaimin Gladiators,Void Spirit,0
+True,6568751767,7,Team Liquid,Pangolier,1
+False,6568751767,9,Gaimin Gladiators,Underlord,0
+False,6568751767,12,Team Liquid,Ember Spirit,1
+False,6568751767,2,Team Liquid,Dragon Knight,1
+False,6568751767,8,Team Liquid,Bloodseeker,1
+False,6568751767,10,Team Liquid,Puck,1
+False,6568751767,11,Gaimin Gladiators,Enchantress,0
+True,6568751767,14,Gaimin Gladiators,Bane,0
+False,6568751767,19,Gaimin Gladiators,Tidehunter,0
+True,6568751767,23,Gaimin Gladiators,Phantom Assassin,0
+True,6568751767,5,Gaimin Gladiators,Chen,0
+True,6568751767,6,Gaimin Gladiators,Lycan,0
+True,6568751767,16,Team Liquid,Bristleback,1
+True,6569495782,15,T1,Io,0
+True,6569495782,5,BOOM Esports,Mars,1
+True,6569495782,7,T1,Chaos Knight,0
+False,6569495782,1,BOOM Esports,Pugna,1
+True,6569495782,16,T1,Storm Spirit,0
+False,6569495782,9,BOOM Esports,Grimstroke,1
+False,6569495782,18,T1,Terrorblade,0
+False,6569495782,21,BOOM Esports,Viper,1
+False,6569495782,13,BOOM Esports,Nature's Prophet,1
+False,6569495782,8,T1,Monkey King,0
+False,6569495782,2,T1,Razor,0
+False,6569495782,11,BOOM Esports,Lina,1
+False,6569495782,12,T1,Medusa,0
+False,6569495782,19,BOOM Esports,Death Prophet,1
+False,6569495782,0,T1,Mirana,0
+False,6569495782,3,BOOM Esports,Dragon Knight,1
+True,6569495782,17,BOOM Esports,Puck,1
+False,6569495782,10,T1,Hoodwink,0
+True,6569495782,6,BOOM Esports,Shadow Shaman,1
+False,6569495782,20,T1,Sven,0
+True,6569495782,4,T1,Treant Protector,0
+True,6569495782,22,T1,Vengeful Spirit,0
+True,6569495782,23,BOOM Esports,Juggernaut,1
+True,6569495782,14,BOOM Esports,Phoenix,1
+False,6569495972,11,Evil Geniuses,Io,0
+True,6569495972,4,BetBoom Team,Mars,1
+True,6569495972,7,BetBoom Team,Chaos Knight,1
+False,6569495972,13,Evil Geniuses,Pugna,0
+False,6569495972,2,BetBoom Team,Storm Spirit,1
+True,6569495972,15,BetBoom Team,Grimstroke,1
+False,6569495972,10,BetBoom Team,Terrorblade,1
+True,6569495972,5,Evil Geniuses,Viper,0
+True,6569495972,14,Evil Geniuses,Timbersaw,0
+False,6569495972,1,Evil Geniuses,Visage,0
+False,6569495972,3,Evil Geniuses,Nature's Prophet,0
+True,6569495972,23,Evil Geniuses,Void Spirit,0
+True,6569495972,6,Evil Geniuses,Tusk,0
+True,6569495972,17,Evil Geniuses,Wraith King,0
+False,6569495972,12,BetBoom Team,Ember Spirit,1
+False,6569495972,19,Evil Geniuses,Leshrac,0
+False,6569495972,8,BetBoom Team,Medusa,1
+False,6569495972,0,BetBoom Team,Dragon Knight,1
+False,6569495972,21,Evil Geniuses,Invoker,0
+False,6569495972,9,Evil Geniuses,Abaddon,0
+True,6569495972,22,BetBoom Team,Puck,1
+False,6569495972,18,BetBoom Team,Bane,1
+False,6569495972,20,BetBoom Team,Shadow Shaman,1
+True,6569495972,16,BetBoom Team,Ancient Apparition,1
+False,6569502056,2,beastcoast,Io,0
+False,6569502056,11,Tundra Esports,Mars,1
+True,6569502056,4,beastcoast,Chaos Knight,0
+False,6569502056,3,Tundra Esports,Pugna,1
+True,6569502056,5,Tundra Esports,Grimstroke,1
+True,6569502056,14,Tundra Esports,Doom,1
+True,6569502056,17,Tundra Esports,Necrophos,1
+True,6569502056,22,beastcoast,Keeper of the Light,0
+False,6569502056,1,Tundra Esports,Timbersaw,1
+False,6569502056,0,beastcoast,Visage,0
+True,6569502056,7,beastcoast,Void Spirit,0
+True,6569502056,6,Tundra Esports,Pangolier,1
+False,6569502056,18,beastcoast,Wraith King,0
+False,6569502056,19,Tundra Esports,Batrider,1
+False,6569502056,12,beastcoast,Underlord,0
+False,6569502056,10,beastcoast,Dragon Knight,0
+False,6569502056,9,Tundra Esports,Bloodseeker,1
+True,6569502056,16,beastcoast,Winter Wyvern,0
+False,6569502056,13,Tundra Esports,Bane,1
+False,6569502056,8,beastcoast,Beastmaster,0
+True,6569502056,23,Tundra Esports,Spectre,1
+False,6569502056,20,beastcoast,Juggernaut,0
+False,6569502056,21,Tundra Esports,Brewmaster,1
+True,6569502056,15,beastcoast,Rubick,0
+True,6569577483,7,BetBoom Team,Io,1
+True,6569577483,4,BetBoom Team,Mars,1
+True,6569577483,6,Evil Geniuses,Chaos Knight,0
+True,6569577483,5,Evil Geniuses,Pugna,0
+False,6569577483,2,BetBoom Team,Storm Spirit,1
+True,6569577483,14,Evil Geniuses,Grimstroke,0
+False,6569577483,13,Evil Geniuses,Terrorblade,0
+True,6569577483,15,BetBoom Team,Necrophos,1
+False,6569577483,10,BetBoom Team,Viper,1
+False,6569577483,1,Evil Geniuses,Visage,0
+False,6569577483,3,Evil Geniuses,Nature's Prophet,0
+False,6569577483,18,BetBoom Team,Void Spirit,1
+False,6569577483,11,Evil Geniuses,Pangolier,0
+True,6569577483,23,Evil Geniuses,Tiny,0
+False,6569577483,19,Evil Geniuses,Kunkka,0
+False,6569577483,8,BetBoom Team,Ember Spirit,1
+False,6569577483,21,Evil Geniuses,Leshrac,0
+False,6569577483,9,Evil Geniuses,Medusa,0
+False,6569577483,0,BetBoom Team,Dragon Knight,1
+False,6569577483,20,BetBoom Team,Invoker,1
+False,6569577483,12,BetBoom Team,Puck,1
+True,6569577483,17,Evil Geniuses,Beastmaster,0
+True,6569577483,16,BetBoom Team,Ancient Apparition,1
+True,6569577483,22,BetBoom Team,Snapfire,1
+False,6569582522,11,BOOM Esports,Io,0
+False,6569582522,0,T1,Mars,1
+False,6569582522,8,T1,Chaos Knight,1
+False,6569582522,3,BOOM Esports,Pugna,0
+False,6569582522,12,T1,Storm Spirit,1
+True,6569582522,14,BOOM Esports,Grimstroke,0
+False,6569582522,10,T1,Terrorblade,1
+True,6569582522,16,T1,Jakiro,1
+True,6569582522,17,BOOM Esports,Void Spirit,0
+True,6569582522,7,T1,Razor,1
+False,6569582522,21,BOOM Esports,Kunkka,0
+False,6569582522,13,BOOM Esports,Lina,0
+True,6569582522,23,BOOM Esports,Faceless Void,0
+False,6569582522,9,BOOM Esports,Lifestealer,0
+True,6569582522,22,T1,Death Prophet,1
+False,6569582522,2,T1,Mirana,1
+False,6569582522,1,BOOM Esports,Dragon Knight,0
+False,6569582522,19,BOOM Esports,Puck,0
+True,6569582522,5,BOOM Esports,Shadow Shaman,0
+True,6569582522,4,T1,Treant Protector,1
+False,6569582522,18,T1,Riki,1
+False,6569582522,20,T1,Anti-Mage,1
+True,6569582522,15,T1,Spectre,1
+True,6569582522,6,BOOM Esports,Brewmaster,0
+False,6569623765,3,beastcoast,Io,0
+False,6569623765,2,Tundra Esports,Mars,1
+True,6569623765,4,Tundra Esports,Chaos Knight,1
+True,6569623765,7,Tundra Esports,Pugna,1
+False,6569623765,10,Tundra Esports,Storm Spirit,1
+True,6569623765,5,beastcoast,Grimstroke,0
+True,6569623765,15,Tundra Esports,Doom,1
+False,6569623765,18,Tundra Esports,Keeper of the Light,1
+False,6569623765,0,Tundra Esports,Timbersaw,1
+False,6569623765,1,beastcoast,Visage,0
+False,6569623765,11,beastcoast,Pangolier,0
+True,6569623765,6,beastcoast,Tiny,0
+False,6569623765,20,Tundra Esports,Batrider,1
+False,6569623765,12,Tundra Esports,Underlord,1
+True,6569623765,17,beastcoast,Lifestealer,0
+False,6569623765,19,beastcoast,Slardar,0
+False,6569623765,8,Tundra Esports,Dragon Knight,1
+True,6569623765,14,beastcoast,Enchantress,0
+False,6569623765,9,beastcoast,Beastmaster,0
+True,6569623765,22,Tundra Esports,Shadow Shaman,1
+True,6569623765,16,Tundra Esports,Snapfire,1
+True,6569623765,23,beastcoast,Venomancer,0
+False,6569623765,21,beastcoast,Lycan,0
+False,6569623765,13,beastcoast,Phoenix,0
+True,6569705664,7,Evil Geniuses,Io,0
+True,6569705664,4,Evil Geniuses,Mars,0
+False,6569705664,8,Evil Geniuses,Chaos Knight,0
+False,6569705664,1,OG,Storm Spirit,1
+False,6569705664,13,OG,Grimstroke,1
+False,6569705664,10,Evil Geniuses,Viper,0
+False,6569705664,0,Evil Geniuses,Timbersaw,0
+False,6569705664,19,OG,Void Spirit,1
+True,6569705664,6,OG,Pangolier,1
+False,6569705664,12,Evil Geniuses,Wraith King,0
+False,6569705664,2,Evil Geniuses,Razor,0
+False,6569705664,21,OG,Tiny,1
+False,6569705664,20,Evil Geniuses,Batrider,0
+True,6569705664,22,Evil Geniuses,Templar Assassin,0
+True,6569705664,17,OG,Kunkka,1
+False,6569705664,18,Evil Geniuses,Huskar,0
+True,6569705664,23,OG,Underlord,1
+False,6569705664,3,OG,Ember Spirit,1
+True,6569705664,15,Evil Geniuses,Bloodseeker,0
+True,6569705664,5,OG,Enigma,1
+True,6569705664,16,Evil Geniuses,Winter Wyvern,0
+False,6569705664,9,OG,Puck,1
+True,6569705664,14,OG,Windranger,1
+False,6569705664,11,OG,Gyrocopter,1
+False,6569732558,9,T1,Io,0
+False,6569732558,1,T1,Mars,0
+True,6569732558,4,BetBoom Team,Chaos Knight,1
+False,6569732558,3,T1,Pugna,0
+False,6569732558,8,BetBoom Team,Grimstroke,1
+False,6569732558,19,T1,Timbersaw,0
+True,6569732558,7,BetBoom Team,Nature's Prophet,1
+True,6569732558,23,T1,Tiny,0
+False,6569732558,18,BetBoom Team,Batrider,1
+True,6569732558,17,T1,Templar Assassin,0
+True,6569732558,22,BetBoom Team,Clockwerk,1
+False,6569732558,12,BetBoom Team,Lina,1
+False,6569732558,20,BetBoom Team,Ember Spirit,1
+False,6569732558,21,T1,Death Prophet,0
+False,6569732558,11,T1,Disruptor,0
+False,6569732558,0,BetBoom Team,Dragon Knight,1
+True,6569732558,15,BetBoom Team,Puck,1
+True,6569732558,6,T1,Shadow Shaman,0
+False,6569732558,2,BetBoom Team,Treant Protector,1
+False,6569732558,13,T1,Snapfire,0
+False,6569732558,10,BetBoom Team,Spectre,1
+True,6569732558,5,T1,Brewmaster,0
+True,6569732558,14,T1,Phoenix,0
+True,6569732558,16,BetBoom Team,Skywrath Mage,1
+False,6569733548,10,BOOM Esports,Io,0
+False,6569733548,1,Tundra Esports,Mars,1
+True,6569733548,5,Tundra Esports,Chaos Knight,1
+True,6569733548,4,BOOM Esports,Pugna,0
+False,6569733548,13,Tundra Esports,Storm Spirit,1
+False,6569733548,3,Tundra Esports,Grimstroke,1
+False,6569733548,0,BOOM Esports,Doom,0
+True,6569733548,7,BOOM Esports,Timbersaw,0
+True,6569733548,23,Tundra Esports,Shadow Demon,1
+False,6569733548,2,BOOM Esports,Visage,0
+True,6569733548,6,Tundra Esports,Pangolier,1
+False,6569733548,8,BOOM Esports,Batrider,0
+False,6569733548,19,Tundra Esports,Templar Assassin,1
+True,6569733548,16,BOOM Esports,Kunkka,0
+False,6569733548,20,BOOM Esports,Underlord,0
+False,6569733548,9,Tundra Esports,Ember Spirit,1
+False,6569733548,12,BOOM Esports,Death Prophet,0
+True,6569733548,15,BOOM Esports,Mirana,0
+False,6569733548,11,Tundra Esports,Puck,1
+True,6569733548,14,Tundra Esports,Bane,1
+True,6569733548,22,BOOM Esports,Ursa,0
+False,6569733548,21,Tundra Esports,Naga Siren,1
+True,6569733548,17,Tundra Esports,Snapfire,1
+False,6569733548,18,BOOM Esports,Brewmaster,0
+True,6569845922,6,T1,Io,0
+True,6569845922,4,BetBoom Team,Mars,1
+False,6569845922,1,T1,Chaos Knight,0
+False,6569845922,10,BetBoom Team,Grimstroke,1
+True,6569845922,22,BetBoom Team,Viper,1
+False,6569845922,19,T1,Shadow Demon,0
+True,6569845922,7,BetBoom Team,Visage,1
+False,6569845922,3,T1,Nature's Prophet,0
+True,6569845922,14,T1,Jakiro,0
+False,6569845922,20,BetBoom Team,Void Spirit,1
+True,6569845922,5,T1,Pangolier,0
+False,6569845922,18,BetBoom Team,Batrider,1
+False,6569845922,12,BetBoom Team,Ember Spirit,1
+True,6569845922,23,T1,Leshrac,0
+False,6569845922,13,T1,Mirana,0
+False,6569845922,0,BetBoom Team,Dragon Knight,1
+True,6569845922,16,BetBoom Team,Winter Wyvern,1
+True,6569845922,15,BetBoom Team,Puck,1
+False,6569845922,8,BetBoom Team,Shadow Shaman,1
+False,6569845922,2,BetBoom Team,Treant Protector,1
+False,6569845922,9,T1,Undying,0
+True,6569845922,17,T1,Spectre,0
+False,6569845922,11,T1,Chen,0
+False,6569845922,21,T1,Phoenix,0
+False,6570018786,3,Team Liquid,Io,0
+True,6570018786,5,Team Liquid,Mars,0
+True,6570018786,7,TSM FTX,Chaos Knight,1
+False,6570018786,1,Team Liquid,Pugna,0
+False,6570018786,2,TSM FTX,Storm Spirit,1
+True,6570018786,6,Team Liquid,Grimstroke,0
+True,6570018786,4,TSM FTX,Keeper of the Light,1
+False,6570018786,12,TSM FTX,Timbersaw,1
+False,6570018786,9,Team Liquid,Pangolier,0
+False,6570018786,10,TSM FTX,Monkey King,1
+True,6570018786,23,Team Liquid,Razor,0
+False,6570018786,11,Team Liquid,Templar Assassin,0
+False,6570018786,13,Team Liquid,Kunkka,0
+True,6570018786,17,Team Liquid,Clockwerk,0
+True,6570018786,15,TSM FTX,Underlord,1
+False,6570018786,20,TSM FTX,Lifestealer,1
+False,6570018786,8,TSM FTX,Medusa,1
+False,6570018786,0,TSM FTX,Dragon Knight,1
+True,6570018786,14,Team Liquid,Enigma,0
+False,6570018786,19,Team Liquid,Puck,0
+False,6570018786,21,Team Liquid,Queen of Pain,0
+True,6570018786,16,TSM FTX,Enchantress,1
+False,6570018786,18,TSM FTX,Juggernaut,1
+True,6570018786,22,TSM FTX,Rubick,1
+False,6570172820,1,Team Liquid,Io,0
+True,6570172820,5,Team Liquid,Mars,0
+True,6570172820,7,TSM FTX,Chaos Knight,1
+False,6570172820,2,TSM FTX,Pugna,1
+False,6570172820,11,Team Liquid,Storm Spirit,0
+False,6570172820,3,Team Liquid,Keeper of the Light,0
+False,6570172820,20,TSM FTX,Pangolier,1
+False,6570172820,12,TSM FTX,Monkey King,1
+True,6570172820,17,Team Liquid,Tiny,0
+False,6570172820,13,Team Liquid,Underlord,0
+False,6570172820,18,TSM FTX,Leshrac,1
+False,6570172820,8,TSM FTX,Medusa,1
+False,6570172820,19,Team Liquid,Death Prophet,0
+False,6570172820,0,TSM FTX,Dragon Knight,1
+False,6570172820,10,TSM FTX,Enigma,1
+False,6570172820,21,Team Liquid,Puck,0
+False,6570172820,9,Team Liquid,Enchantress,0
+True,6570172820,4,TSM FTX,Shadow Shaman,1
+True,6570172820,22,TSM FTX,Treant Protector,1
+True,6570172820,14,Team Liquid,Undying,0
+True,6570172820,15,TSM FTX,Snapfire,1
+True,6570172820,23,Team Liquid,Spectre,0
+True,6570172820,16,TSM FTX,Brewmaster,1
+True,6570172820,6,Team Liquid,Phoenix,0
+False,6570284918,1,Team Spirit,Io,0
+False,6570284918,2,Team Liquid,Mars,1
+False,6570284918,8,Team Liquid,Chaos Knight,1
+True,6570284918,4,Team Liquid,Pugna,1
+True,6570284918,7,Team Liquid,Storm Spirit,1
+False,6570284918,3,Team Spirit,Grimstroke,0
+False,6570284918,10,Team Liquid,Keeper of the Light,1
+True,6570284918,22,Team Liquid,Nature's Prophet,1
+False,6570284918,19,Team Spirit,Troll Warlord,0
+True,6570284918,5,Team Spirit,Pangolier,0
+False,6570284918,21,Team Spirit,Razor,0
+True,6570284918,17,Team Spirit,Templar Assassin,0
+False,6570284918,20,Team Liquid,Underlord,1
+False,6570284918,13,Team Spirit,Medusa,0
+False,6570284918,18,Team Liquid,Death Prophet,1
+True,6570284918,15,Team Liquid,Dragon Knight,1
+False,6570284918,9,Team Spirit,Bloodseeker,0
+False,6570284918,0,Team Liquid,Bane,1
+True,6570284918,16,Team Liquid,Hoodwink,1
+True,6570284918,23,Team Spirit,Tidehunter,0
+False,6570284918,12,Team Liquid,Anti-Mage,1
+False,6570284918,11,Team Spirit,Lone Druid,0
+True,6570284918,6,Team Spirit,Rubick,0
+True,6570284918,14,Team Spirit,Ogre Magi,0
+False,6570288241,0,Thunder Awaken,Io,0
+True,6570288241,6,Gaimin Gladiators,Mars,1
+False,6570288241,13,Gaimin Gladiators,Chaos Knight,1
+True,6570288241,4,Thunder Awaken,Pugna,0
+True,6570288241,5,Gaimin Gladiators,Storm Spirit,1
+False,6570288241,8,Thunder Awaken,Grimstroke,0
+False,6570288241,12,Thunder Awaken,Keeper of the Light,0
+True,6570288241,7,Thunder Awaken,Timbersaw,0
+False,6570288241,18,Thunder Awaken,Shadow Demon,0
+False,6570288241,11,Gaimin Gladiators,Pangolier,1
+True,6570288241,17,Gaimin Gladiators,Monkey King,1
+False,6570288241,2,Thunder Awaken,Sand King,0
+False,6570288241,19,Gaimin Gladiators,Razor,1
+False,6570288241,1,Gaimin Gladiators,Tiny,1
+True,6570288241,15,Thunder Awaken,Kunkka,0
+True,6570288241,16,Thunder Awaken,Mirana,0
+False,6570288241,21,Gaimin Gladiators,Dragon Knight,1
+False,6570288241,9,Gaimin Gladiators,Invoker,1
+False,6570288241,10,Thunder Awaken,Bloodseeker,0
+False,6570288241,20,Thunder Awaken,Abaddon,0
+True,6570288241,23,Gaimin Gladiators,Enchantress,1
+True,6570288241,14,Gaimin Gladiators,Bane,1
+False,6570288241,3,Gaimin Gladiators,Snapfire,1
+True,6570288241,22,Thunder Awaken,Luna,0
+False,6570391220,1,Thunder Awaken,Io,1
+True,6570391220,4,Gaimin Gladiators,Mars,0
+False,6570391220,11,Thunder Awaken,Chaos Knight,1
+False,6570391220,3,Thunder Awaken,Pugna,1
+True,6570391220,17,Thunder Awaken,Storm Spirit,1
+True,6570391220,7,Gaimin Gladiators,Grimstroke,0
+True,6570391220,16,Gaimin Gladiators,Keeper of the Light,0
+False,6570391220,12,Gaimin Gladiators,Shadow Demon,0
+True,6570391220,15,Gaimin Gladiators,Void Spirit,0
+True,6570391220,6,Thunder Awaken,Sand King,1
+False,6570391220,18,Gaimin Gladiators,Razor,0
+False,6570391220,2,Gaimin Gladiators,Tiny,0
+True,6570391220,23,Thunder Awaken,Templar Assassin,1
+False,6570391220,21,Thunder Awaken,Underlord,1
+False,6570391220,13,Thunder Awaken,Ember Spirit,1
+False,6570391220,20,Gaimin Gladiators,Medusa,0
+True,6570391220,5,Thunder Awaken,Mirana,1
+True,6570391220,22,Gaimin Gladiators,Bloodseeker,0
+False,6570391220,9,Thunder Awaken,Enchantress,1
+False,6570391220,10,Gaimin Gladiators,Bane,0
+False,6570391220,19,Thunder Awaken,Anti-Mage,1
+False,6570391220,0,Gaimin Gladiators,Snapfire,0
+False,6570391220,8,Gaimin Gladiators,Spectre,0
+True,6570391220,14,Thunder Awaken,Ogre Magi,1
+False,6570398588,1,Team Spirit,Io,0
+False,6570398588,2,Team Liquid,Mars,1
+False,6570398588,8,Team Liquid,Chaos Knight,1
+False,6570398588,3,Team Spirit,Pugna,0
+True,6570398588,6,Team Spirit,Storm Spirit,0
+True,6570398588,14,Team Spirit,Grimstroke,0
+False,6570398588,20,Team Liquid,Terrorblade,1
+True,6570398588,5,Team Spirit,Keeper of the Light,0
+False,6570398588,9,Team Spirit,Shadow Demon,0
+True,6570398588,15,Team Liquid,Visage,1
+True,6570398588,23,Team Spirit,Troll Warlord,0
+False,6570398588,21,Team Spirit,Monkey King,0
+False,6570398588,10,Team Liquid,Sand King,1
+False,6570398588,18,Team Liquid,Wraith King,1
+False,6570398588,19,Team Spirit,Razor,0
+True,6570398588,17,Team Spirit,Underlord,0
+False,6570398588,13,Team Spirit,Medusa,0
+True,6570398588,4,Team Liquid,Dragon Knight,1
+False,6570398588,12,Team Liquid,Bloodseeker,1
+False,6570398588,11,Team Spirit,Puck,0
+False,6570398588,0,Team Liquid,Bane,1
+True,6570398588,7,Team Liquid,Hoodwink,1
+True,6570398588,16,Team Liquid,Treant Protector,1
+True,6570398588,22,Team Liquid,Alchemist,1
+False,6571200692,13,OG,Io,1
+True,6571200692,4,BetBoom Team,Mars,0
+False,6571200692,1,OG,Chaos Knight,1
+False,6571200692,21,OG,Necrophos,1
+False,6571200692,18,BetBoom Team,Keeper of the Light,0
+False,6571200692,10,BetBoom Team,Viper,0
+False,6571200692,0,BetBoom Team,Timbersaw,0
+True,6571200692,7,BetBoom Team,Visage,0
+False,6571200692,3,OG,Nature's Prophet,1
+True,6571200692,17,OG,Wraith King,1
+True,6571200692,6,OG,Razor,1
+True,6571200692,5,OG,Nyx Assassin,1
+False,6571200692,12,BetBoom Team,Kunkka,0
+False,6571200692,11,OG,Clockwerk,1
+False,6571200692,8,BetBoom Team,Underlord,0
+True,6571200692,23,OG,Ember Spirit,1
+False,6571200692,20,BetBoom Team,Invoker,0
+False,6571200692,2,BetBoom Team,Enigma,0
+True,6571200692,14,OG,Winter Wyvern,1
+True,6571200692,22,BetBoom Team,Puck,0
+True,6571200692,15,BetBoom Team,Shadow Shaman,0
+False,6571200692,9,OG,Treant Protector,1
+False,6571200692,19,OG,Windranger,1
+True,6571200692,16,BetBoom Team,Skywrath Mage,0
+False,6571201844,2,beastcoast,Io,0
+True,6571201844,4,beastcoast,Mars,0
+True,6571201844,5,Evil Geniuses,Chaos Knight,1
+False,6571201844,1,Evil Geniuses,Pugna,1
+False,6571201844,0,beastcoast,Storm Spirit,0
+False,6571201844,12,beastcoast,Doom,0
+False,6571201844,18,beastcoast,Viper,0
+False,6571201844,3,Evil Geniuses,Timbersaw,1
+True,6571201844,15,beastcoast,Jakiro,0
+False,6571201844,8,beastcoast,Void Spirit,0
+False,6571201844,9,Evil Geniuses,Troll Warlord,1
+False,6571201844,20,beastcoast,Razor,0
+False,6571201844,11,Evil Geniuses,Underlord,1
+True,6571201844,22,beastcoast,Faceless Void,0
+False,6571201844,13,Evil Geniuses,Medusa,1
+True,6571201844,14,Evil Geniuses,Death Prophet,1
+False,6571201844,19,Evil Geniuses,Bloodseeker,1
+False,6571201844,10,beastcoast,Puck,0
+True,6571201844,17,Evil Geniuses,Queen of Pain,1
+True,6571201844,23,Evil Geniuses,Tidehunter,1
+True,6571201844,6,Evil Geniuses,Shadow Shaman,1
+False,6571201844,21,Evil Geniuses,Sven,1
+True,6571201844,16,beastcoast,Venomancer,0
+True,6571201844,7,beastcoast,Rubick,0
+False,6571204733,0,T1,Io,0
+True,6571204733,17,Tundra Esports,Mars,1
+False,6571204733,12,T1,Chaos Knight,0
+True,6571204733,4,T1,Pugna,0
+False,6571204733,10,T1,Grimstroke,0
+True,6571204733,6,Tundra Esports,Doom,1
+True,6571204733,15,T1,Keeper of the Light,0
+True,6571204733,22,T1,Viper,0
+True,6571204733,5,Tundra Esports,Visage,1
+True,6571204733,7,T1,Pangolier,0
+False,6571204733,9,Tundra Esports,Monkey King,1
+False,6571204733,19,Tundra Esports,Lina,1
+False,6571204733,8,T1,Ember Spirit,0
+False,6571204733,1,Tundra Esports,Dragon Knight,1
+False,6571204733,18,T1,Bloodseeker,0
+False,6571204733,13,Tundra Esports,Puck,1
+False,6571204733,21,Tundra Esports,Queen of Pain,1
+True,6571204733,14,Tundra Esports,Bane,1
+False,6571204733,11,Tundra Esports,Beastmaster,1
+False,6571204733,3,Tundra Esports,Treant Protector,1
+False,6571204733,2,T1,Snapfire,0
+False,6571204733,20,T1,Spectre,0
+True,6571204733,16,T1,Bristleback,0
+True,6571204733,23,Tundra Esports,Juggernaut,1
+False,6571280989,2,T1,Io,0
+False,6571280989,13,Tundra Esports,Chaos Knight,1
+False,6571280989,0,T1,Pugna,0
+True,6571280989,6,Tundra Esports,Grimstroke,1
+True,6571280989,4,T1,Doom,0
+True,6571280989,17,Tundra Esports,Void Spirit,1
+False,6571280989,21,Tundra Esports,Monkey King,1
+False,6571280989,11,Tundra Esports,Kunkka,1
+False,6571280989,20,T1,Lifestealer,0
+False,6571280989,12,T1,Ember Spirit,0
+True,6571280989,23,Tundra Esports,Medusa,1
+False,6571280989,3,Tundra Esports,Dragon Knight,1
+True,6571280989,22,T1,Bloodseeker,0
+True,6571280989,16,T1,Puck,0
+True,6571280989,5,Tundra Esports,Beastmaster,1
+False,6571280989,10,T1,Hoodwink,0
+False,6571280989,1,Tundra Esports,Treant Protector,1
+False,6571280989,8,T1,Snapfire,0
+False,6571280989,19,Tundra Esports,Spectre,1
+False,6571280989,9,Tundra Esports,Bristleback,1
+False,6571280989,18,T1,Juggernaut,0
+True,6571280989,15,T1,Crystal Maiden,0
+True,6571280989,14,Tundra Esports,Weaver,1
+True,6571280989,7,T1,Phoenix,0
+False,6571305244,11,beastcoast,Io,1
+True,6571305244,7,Evil Geniuses,Mars,0
+True,6571305244,4,Evil Geniuses,Chaos Knight,0
+False,6571305244,1,beastcoast,Pugna,1
+False,6571305244,3,beastcoast,Storm Spirit,1
+False,6571305244,2,Evil Geniuses,Timbersaw,0
+True,6571305244,15,Evil Geniuses,Shadow Demon,0
+False,6571305244,21,beastcoast,Void Spirit,1
+False,6571305244,10,Evil Geniuses,Troll Warlord,0
+False,6571305244,20,Evil Geniuses,Pangolier,0
+True,6571305244,5,beastcoast,Tusk,1
+True,6571305244,17,beastcoast,Batrider,1
+True,6571305244,23,beastcoast,Templar Assassin,1
+False,6571305244,18,Evil Geniuses,Kunkka,0
+True,6571305244,22,Evil Geniuses,Lina,0
+False,6571305244,8,Evil Geniuses,Underlord,0
+False,6571305244,12,Evil Geniuses,Medusa,0
+True,6571305244,14,beastcoast,Bloodseeker,1
+False,6571305244,13,beastcoast,Puck,1
+False,6571305244,19,beastcoast,Queen of Pain,1
+False,6571305244,0,Evil Geniuses,Enchantress,0
+False,6571305244,9,beastcoast,Shadow Shaman,1
+True,6571305244,6,beastcoast,Snapfire,1
+True,6571305244,16,Evil Geniuses,Dark Willow,0
+True,6571306390,4,OG,Io,1
+True,6571306390,6,BetBoom Team,Mars,0
+False,6571306390,0,OG,Chaos Knight,1
+False,6571306390,2,OG,Storm Spirit,1
+False,6571306390,13,BetBoom Team,Keeper of the Light,0
+False,6571306390,20,OG,Viper,1
+False,6571306390,1,BetBoom Team,Timbersaw,0
+True,6571306390,5,BetBoom Team,Nature's Prophet,0
+True,6571306390,17,BetBoom Team,Pangolier,0
+False,6571306390,12,OG,Monkey King,1
+True,6571306390,22,OG,Razor,1
+False,6571306390,9,BetBoom Team,Kunkka,0
+False,6571306390,18,OG,Huskar,1
+True,6571306390,7,OG,Underlord,1
+False,6571306390,11,BetBoom Team,Ember Spirit,0
+False,6571306390,19,BetBoom Team,Bloodseeker,0
+False,6571306390,3,BetBoom Team,Enigma,0
+True,6571306390,16,OG,Puck,1
+False,6571306390,10,OG,Bane,1
+True,6571306390,23,BetBoom Team,Shadow Shaman,0
+True,6571306390,14,BetBoom Team,Ancient Apparition,0
+True,6571306390,15,OG,Windranger,1
+False,6571306390,21,BetBoom Team,Spectre,0
+False,6571306390,8,OG,Rubick,1
+True,6571442714,4,Gaimin Gladiators,Io,1
+False,6571442714,1,Fnatic,Mars,0
+True,6571442714,7,Gaimin Gladiators,Chaos Knight,1
+False,6571442714,3,Fnatic,Storm Spirit,0
+True,6571442714,23,Fnatic,Necrophos,0
+False,6571442714,0,Gaimin Gladiators,Keeper of the Light,1
+False,6571442714,8,Gaimin Gladiators,Timbersaw,1
+False,6571442714,18,Gaimin Gladiators,Batrider,1
+True,6571442714,5,Fnatic,Templar Assassin,0
+False,6571442714,10,Gaimin Gladiators,Underlord,1
+False,6571442714,21,Fnatic,Lifestealer,0
+True,6571442714,22,Gaimin Gladiators,Ember Spirit,1
+False,6571442714,9,Fnatic,Leshrac,0
+False,6571442714,11,Fnatic,Death Prophet,0
+True,6571442714,15,Gaimin Gladiators,Dragon Knight,1
+False,6571442714,20,Gaimin Gladiators,Invoker,1
+False,6571442714,13,Fnatic,Beastmaster,0
+False,6571442714,12,Gaimin Gladiators,Tidehunter,1
+False,6571442714,2,Gaimin Gladiators,Shadow Shaman,1
+True,6571442714,6,Fnatic,Treant Protector,0
+False,6571442714,19,Fnatic,Anti-Mage,0
+True,6571442714,16,Gaimin Gladiators,Snapfire,1
+True,6571442714,17,Fnatic,Brewmaster,0
+True,6571442714,14,Fnatic,Phoenix,0
+True,6571446779,4,TSM FTX,Io,0
+True,6571446779,16,TSM FTX,Mars,0
+False,6571446779,3,Thunder Awaken,Chaos Knight,1
+False,6571446779,1,Thunder Awaken,Pugna,1
+True,6571446779,5,Thunder Awaken,Storm Spirit,1
+True,6571446779,17,Thunder Awaken,Timbersaw,1
+False,6571446779,18,TSM FTX,Razor,0
+True,6571446779,14,Thunder Awaken,Tiny,1
+False,6571446779,8,TSM FTX,Nyx Assassin,0
+False,6571446779,10,TSM FTX,Templar Assassin,0
+False,6571446779,9,Thunder Awaken,Underlord,1
+True,6571446779,7,TSM FTX,Leshrac,0
+True,6571446779,15,TSM FTX,Medusa,0
+False,6571446779,21,Thunder Awaken,Death Prophet,1
+False,6571446779,2,TSM FTX,Mirana,0
+True,6571446779,6,Thunder Awaken,Bane,1
+False,6571446779,13,Thunder Awaken,Beastmaster,1
+True,6571446779,23,Thunder Awaken,Ursa,1
+False,6571446779,12,TSM FTX,Anti-Mage,0
+False,6571446779,19,Thunder Awaken,Undying,1
+False,6571446779,0,TSM FTX,Snapfire,0
+False,6571446779,20,TSM FTX,Phantom Assassin,0
+False,6571446779,11,Thunder Awaken,Night Stalker,1
+True,6571446779,22,TSM FTX,Ogre Magi,0
+False,6571554679,0,Thunder Awaken,Io,0
+True,6571554679,5,TSM FTX,Chaos Knight,1
+False,6571554679,3,TSM FTX,Pugna,1
+False,6571554679,10,Thunder Awaken,Storm Spirit,0
+False,6571554679,11,TSM FTX,Terrorblade,1
+False,6571554679,1,TSM FTX,Timbersaw,1
+True,6571554679,15,Thunder Awaken,Shadow Demon,0
+True,6571554679,17,TSM FTX,Pangolier,1
+False,6571554679,2,Thunder Awaken,Sand King,0
+True,6571554679,4,Thunder Awaken,Tiny,0
+True,6571554679,7,Thunder Awaken,Batrider,0
+False,6571554679,13,TSM FTX,Underlord,1
+False,6571554679,9,TSM FTX,Medusa,1
+True,6571554679,16,Thunder Awaken,Death Prophet,0
+False,6571554679,19,TSM FTX,Bloodseeker,1
+True,6571554679,14,TSM FTX,Abaddon,1
+True,6571554679,23,TSM FTX,Enigma,1
+False,6571554679,12,Thunder Awaken,Puck,0
+False,6571554679,8,Thunder Awaken,Queen of Pain,0
+False,6571554679,18,Thunder Awaken,Beastmaster,0
+True,6571554679,6,TSM FTX,Snapfire,1
+False,6571554679,21,TSM FTX,Spectre,1
+True,6571554679,22,Thunder Awaken,Luna,0
+False,6571554679,20,Thunder Awaken,Night Stalker,0
+False,6571582160,0,Fnatic,Io,0
+True,6571582160,5,Gaimin Gladiators,Mars,1
+True,6571582160,7,Fnatic,Chaos Knight,0
+False,6571582160,11,Gaimin Gladiators,Pugna,1
+True,6571582160,4,Fnatic,Storm Spirit,0
+False,6571582160,9,Gaimin Gladiators,Grimstroke,1
+False,6571582160,3,Gaimin Gladiators,Keeper of the Light,1
+True,6571582160,23,Gaimin Gladiators,Monkey King,1
+False,6571582160,21,Gaimin Gladiators,Sand King,1
+False,6571582160,12,Fnatic,Wraith King,0
+False,6571582160,8,Fnatic,Underlord,0
+True,6571582160,17,Gaimin Gladiators,Ember Spirit,1
+False,6571582160,10,Fnatic,Medusa,0
+False,6571582160,2,Fnatic,Dragon Knight,0
+False,6571582160,18,Fnatic,Bloodseeker,0
+True,6571582160,14,Gaimin Gladiators,Enchantress,1
+True,6571582160,6,Gaimin Gladiators,Bane,1
+True,6571582160,15,Fnatic,Hoodwink,0
+True,6571582160,22,Fnatic,Tidehunter,0
+False,6571582160,1,Gaimin Gladiators,Shadow Shaman,1
+False,6571582160,13,Gaimin Gladiators,Treant Protector,1
+False,6571582160,20,Fnatic,Anti-Mage,0
+True,6571582160,16,Fnatic,Weaver,0
+False,6571582160,19,Gaimin Gladiators,Magnus,1
+False,6571732248,1,Team Spirit,Io,1
+False,6571732248,2,Team Liquid,Mars,0
+False,6571732248,8,Team Liquid,Chaos Knight,0
+False,6571732248,3,Team Spirit,Pugna,1
+False,6571732248,10,Team Liquid,Storm Spirit,0
+True,6571732248,16,Team Liquid,Keeper of the Light,0
+True,6571732248,14,Team Spirit,Shadow Demon,1
+False,6571732248,11,Team Spirit,Visage,1
+False,6571732248,13,Team Spirit,Nature's Prophet,1
+True,6571732248,5,Team Spirit,Sand King,1
+False,6571732248,20,Team Liquid,Templar Assassin,0
+True,6571732248,17,Team Spirit,Kunkka,1
+False,6571732248,12,Team Liquid,Underlord,0
+False,6571732248,18,Team Liquid,Medusa,0
+True,6571732248,6,Team Spirit,Mirana,1
+True,6571732248,4,Team Liquid,Dragon Knight,0
+False,6571732248,21,Team Spirit,Abaddon,1
+False,6571732248,0,Team Liquid,Bane,0
+True,6571732248,7,Team Liquid,Hoodwink,0
+True,6571732248,22,Team Liquid,Lich,0
+False,6571732248,19,Team Spirit,Treant Protector,1
+False,6571732248,9,Team Spirit,Undying,1
+True,6571732248,23,Team Spirit,Luna,1
+True,6571732248,15,Team Liquid,Lone Druid,0
+True,6571843204,4,TSM FTX,Io,1
+False,6571843204,1,Team Spirit,Mars,0
+False,6571843204,3,Team Spirit,Chaos Knight,0
+True,6571843204,15,TSM FTX,Pugna,1
+True,6571843204,6,Team Spirit,Storm Spirit,0
+False,6571843204,8,TSM FTX,Keeper of the Light,1
+False,6571843204,21,Team Spirit,Troll Warlord,0
+False,6571843204,18,TSM FTX,Pangolier,1
+False,6571843204,10,TSM FTX,Monkey King,1
+False,6571843204,12,TSM FTX,Sand King,1
+False,6571843204,2,TSM FTX,Underlord,1
+False,6571843204,19,Team Spirit,Slardar,0
+True,6571843204,7,TSM FTX,Leshrac,1
+False,6571843204,0,TSM FTX,Mirana,1
+True,6571843204,16,TSM FTX,Dragon Knight,1
+True,6571843204,23,Team Spirit,Bloodseeker,0
+False,6571843204,9,Team Spirit,Enchantress,0
+True,6571843204,5,Team Spirit,Bane,0
+False,6571843204,11,Team Spirit,Beastmaster,0
+False,6571843204,13,Team Spirit,Treant Protector,0
+True,6571843204,17,Team Spirit,Anti-Mage,0
+True,6571843204,14,Team Spirit,Snapfire,0
+True,6571843204,22,TSM FTX,Night Stalker,1
+False,6571843204,20,TSM FTX,Magnus,1
+False,6571843720,3,Thunder Awaken,Io,1
+True,6571843720,5,Thunder Awaken,Mars,1
+False,6571843720,13,Thunder Awaken,Chaos Knight,1
+False,6571843720,1,Thunder Awaken,Pugna,1
+False,6571843720,11,Thunder Awaken,Storm Spirit,1
+False,6571843720,10,Team Liquid,Keeper of the Light,0
+True,6571843720,6,Thunder Awaken,Viper,1
+True,6571843720,17,Thunder Awaken,Timbersaw,1
+False,6571843720,18,Team Liquid,Wraith King,0
+False,6571843720,0,Team Liquid,Tiny,0
+False,6571843720,19,Thunder Awaken,Nyx Assassin,1
+True,6571843720,23,Thunder Awaken,Kunkka,1
+False,6571843720,21,Thunder Awaken,Clockwerk,1
+False,6571843720,2,Team Liquid,Mirana,0
+True,6571843720,4,Team Liquid,Dragon Knight,0
+True,6571843720,7,Team Liquid,Abaddon,0
+True,6571843720,15,Team Liquid,Enigma,0
+False,6571843720,9,Thunder Awaken,Hoodwink,1
+True,6571843720,14,Thunder Awaken,Snapfire,1
+False,6571843720,8,Team Liquid,Spectre,0
+False,6571843720,20,Team Liquid,Phantom Assassin,0
+True,6571843720,22,Team Liquid,Skywrath Mage,0
+False,6571843720,12,Team Liquid,Alchemist,0
+True,6571843720,16,Team Liquid,Clinkz,0
+False,6571965781,1,Thunder Awaken,Io,1
+False,6571965781,3,Thunder Awaken,Mars,1
+True,6571965781,23,Thunder Awaken,Chaos Knight,1
+False,6571965781,2,Team Spirit,Pugna,0
+False,6571965781,21,Thunder Awaken,Storm Spirit,1
+False,6571965781,18,Team Spirit,Terrorblade,0
+False,6571965781,10,Team Spirit,Viper,0
+False,6571965781,0,Team Spirit,Timbersaw,0
+False,6571965781,13,Thunder Awaken,Shadow Demon,1
+False,6571965781,20,Team Spirit,Monkey King,0
+True,6571965781,4,Team Spirit,Sand King,0
+True,6571965781,5,Thunder Awaken,Tiny,1
+False,6571965781,9,Thunder Awaken,Kunkka,1
+False,6571965781,11,Thunder Awaken,Underlord,1
+True,6571965781,7,Team Spirit,Mirana,0
+True,6571965781,22,Team Spirit,Invoker,0
+True,6571965781,14,Thunder Awaken,Abaddon,1
+True,6571965781,16,Team Spirit,Bane,0
+False,6571965781,19,Thunder Awaken,Beastmaster,1
+False,6571965781,12,Team Spirit,Anti-Mage,0
+True,6571965781,6,Thunder Awaken,Snapfire,1
+True,6571965781,15,Team Spirit,Spectre,0
+True,6571965781,17,Thunder Awaken,Venomancer,1
+False,6571965781,8,Team Spirit,Alchemist,0
+True,6571966593,6,Team Liquid,Io,0
+True,6571966593,5,Team Liquid,Mars,0
+False,6571966593,1,Team Liquid,Chaos Knight,0
+True,6571966593,4,TSM FTX,Pugna,1
+True,6571966593,7,TSM FTX,Storm Spirit,1
+True,6571966593,14,Team Liquid,Grimstroke,0
+True,6571966593,17,Team Liquid,Visage,0
+True,6571966593,22,TSM FTX,Monkey King,1
+False,6571966593,11,Team Liquid,Wraith King,0
+False,6571966593,12,TSM FTX,Razor,1
+False,6571966593,8,TSM FTX,Tiny,1
+False,6571966593,9,Team Liquid,Templar Assassin,0
+True,6571966593,15,TSM FTX,Underlord,1
+True,6571966593,23,Team Liquid,Lifestealer,0
+False,6571966593,3,Team Liquid,Leshrac,0
+False,6571966593,13,Team Liquid,Medusa,0
+False,6571966593,2,TSM FTX,Mirana,1
+False,6571966593,0,TSM FTX,Enigma,1
+True,6571966593,16,TSM FTX,Hoodwink,1
+False,6571966593,20,TSM FTX,Ursa,1
+False,6571966593,10,TSM FTX,Anti-Mage,1
+False,6571966593,21,Team Liquid,Naga Siren,0
+False,6571966593,19,Team Liquid,Spectre,0
+False,6571966593,18,TSM FTX,Juggernaut,1
+False,6572659357,3,Tundra Esports,Io,1
+False,6572659357,1,Tundra Esports,Mars,1
+True,6572659357,4,Team Spirit,Chaos Knight,0
+False,6572659357,2,Team Spirit,Pugna,0
+True,6572659357,16,Team Spirit,Grimstroke,0
+False,6572659357,21,Tundra Esports,Doom,1
+False,6572659357,0,Team Spirit,Visage,0
+True,6572659357,5,Tundra Esports,Pangolier,1
+False,6572659357,19,Tundra Esports,Sand King,1
+False,6572659357,18,Team Spirit,Wraith King,0
+False,6572659357,11,Tundra Esports,Kunkka,1
+False,6572659357,13,Tundra Esports,Lina,1
+False,6572659357,10,Team Spirit,Medusa,0
+False,6572659357,9,Tundra Esports,Mirana,1
+False,6572659357,12,Team Spirit,Dragon Knight,0
+True,6572659357,15,Team Spirit,Puck,0
+True,6572659357,7,Team Spirit,Bane,0
+False,6572659357,8,Team Spirit,Beastmaster,0
+True,6572659357,22,Team Spirit,Ursa,0
+True,6572659357,23,Tundra Esports,Naga Siren,1
+True,6572659357,6,Tundra Esports,Snapfire,1
+False,6572659357,20,Team Spirit,Spectre,0
+True,6572659357,17,Tundra Esports,Lycan,1
+True,6572659357,14,Tundra Esports,Phoenix,1
+False,6572725458,2,Tundra Esports,Io,0
+False,6572725458,0,Tundra Esports,Mars,0
+True,6572725458,4,Tundra Esports,Chaos Knight,0
+False,6572725458,3,Team Spirit,Pugna,1
+True,6572725458,7,Tundra Esports,Grimstroke,0
+True,6572725458,15,Tundra Esports,Doom,0
+True,6572725458,16,Tundra Esports,Shadow Demon,0
+False,6572725458,1,Team Spirit,Visage,1
+False,6572725458,9,Team Spirit,Void Spirit,1
+True,6572725458,17,Team Spirit,Pangolier,1
+True,6572725458,22,Tundra Esports,Tiny,0
+False,6572725458,20,Tundra Esports,Batrider,0
+False,6572725458,8,Tundra Esports,Underlord,0
+False,6572725458,19,Team Spirit,Ember Spirit,1
+False,6572725458,18,Tundra Esports,Medusa,0
+False,6572725458,11,Team Spirit,Death Prophet,1
+True,6572725458,5,Team Spirit,Dragon Knight,1
+False,6572725458,12,Tundra Esports,Puck,0
+False,6572725458,21,Team Spirit,Spirit Breaker,1
+True,6572725458,14,Team Spirit,Hoodwink,1
+True,6572725458,6,Team Spirit,Snapfire,1
+True,6572725458,23,Team Spirit,Phantom Assassin,1
+False,6572725458,13,Team Spirit,Lycan,1
+False,6572725458,10,Tundra Esports,Phoenix,0
+False,6572822253,3,Tundra Esports,Io,1
+False,6572822253,1,Tundra Esports,Mars,1
+True,6572822253,5,Tundra Esports,Chaos Knight,1
+True,6572822253,4,Team Spirit,Pugna,0
+False,6572822253,19,Tundra Esports,Storm Spirit,1
+True,6572822253,6,Tundra Esports,Doom,1
+True,6572822253,23,Tundra Esports,Keeper of the Light,1
+False,6572822253,10,Team Spirit,Shadow Demon,0
+False,6572822253,0,Team Spirit,Visage,0
+False,6572822253,2,Team Spirit,Pangolier,0
+False,6572822253,20,Team Spirit,Batrider,0
+False,6572822253,21,Tundra Esports,Kunkka,1
+False,6572822253,13,Tundra Esports,Lina,1
+False,6572822253,11,Tundra Esports,Mirana,1
+True,6572822253,7,Team Spirit,Dragon Knight,0
+False,6572822253,18,Team Spirit,Invoker,0
+True,6572822253,22,Team Spirit,Puck,0
+True,6572822253,14,Tundra Esports,Bane,1
+True,6572822253,17,Tundra Esports,Beastmaster,1
+False,6572822253,12,Team Spirit,Snapfire,0
+False,6572822253,9,Tundra Esports,Phantom Assassin,1
+True,6572822253,15,Team Spirit,Luna,0
+False,6572822253,8,Team Spirit,Phoenix,0
+True,6572822253,16,Team Spirit,Rubick,0
+False,6572937926,13,Thunder Awaken,Io,1
+True,6572937926,4,BetBoom Team,Mars,0
+False,6572937926,3,Thunder Awaken,Chaos Knight,1
+True,6572937926,6,Thunder Awaken,Pugna,1
+False,6572937926,12,BetBoom Team,Storm Spirit,0
+False,6572937926,8,BetBoom Team,Timbersaw,0
+False,6572937926,1,Thunder Awaken,Visage,1
+True,6572937926,7,BetBoom Team,Nature's Prophet,0
+False,6572937926,11,Thunder Awaken,Pangolier,1
+False,6572937926,0,BetBoom Team,Sand King,0
+False,6572937926,2,BetBoom Team,Tiny,0
+False,6572937926,20,BetBoom Team,Nyx Assassin,0
+True,6572937926,17,Thunder Awaken,Templar Assassin,1
+True,6572937926,14,Thunder Awaken,Kunkka,1
+False,6572937926,18,BetBoom Team,Underlord,0
+False,6572937926,21,Thunder Awaken,Ember Spirit,1
+True,6572937926,22,BetBoom Team,Leshrac,0
+False,6572937926,19,Thunder Awaken,Death Prophet,1
+True,6572937926,15,BetBoom Team,Mirana,0
+False,6572937926,9,Thunder Awaken,Puck,1
+True,6572937926,16,BetBoom Team,Bane,0
+True,6572937926,23,Thunder Awaken,Tidehunter,1
+True,6572937926,5,Thunder Awaken,Snapfire,1
+False,6572937926,10,BetBoom Team,Spectre,0
+True,6573058524,5,BetBoom Team,Io,1
+True,6573058524,6,BetBoom Team,Mars,1
+False,6573058524,2,Thunder Awaken,Chaos Knight,0
+True,6573058524,4,Thunder Awaken,Pugna,0
+True,6573058524,7,Thunder Awaken,Storm Spirit,0
+False,6573058524,12,Thunder Awaken,Necrophos,0
+False,6573058524,3,BetBoom Team,Timbersaw,1
+False,6573058524,0,Thunder Awaken,Visage,0
+True,6573058524,23,BetBoom Team,Nature's Prophet,1
+False,6573058524,10,Thunder Awaken,Pangolier,0
+False,6573058524,11,BetBoom Team,Sand King,1
+True,6573058524,14,BetBoom Team,Nyx Assassin,1
+True,6573058524,17,BetBoom Team,Templar Assassin,1
+True,6573058524,22,Thunder Awaken,Faceless Void,0
+False,6573058524,18,Thunder Awaken,Death Prophet,0
+False,6573058524,13,BetBoom Team,Mirana,1
+False,6573058524,8,Thunder Awaken,Puck,0
+True,6573058524,15,Thunder Awaken,Tidehunter,0
+False,6573058524,1,BetBoom Team,Snapfire,1
+True,6573058524,16,Thunder Awaken,Windranger,0
+False,6573058524,21,BetBoom Team,Morphling,1
+False,6573058524,9,BetBoom Team,Spectre,1
+False,6573058524,19,BetBoom Team,Luna,1
+False,6573058524,20,Thunder Awaken,Night Stalker,0
+False,6573182161,9,Thunder Awaken,Io,1
+True,6573182161,4,BetBoom Team,Mars,0
+False,6573182161,3,Thunder Awaken,Chaos Knight,1
+True,6573182161,5,Thunder Awaken,Pugna,1
+False,6573182161,12,BetBoom Team,Storm Spirit,0
+False,6573182161,10,BetBoom Team,Timbersaw,0
+False,6573182161,21,Thunder Awaken,Shadow Demon,1
+False,6573182161,1,Thunder Awaken,Visage,1
+True,6573182161,7,BetBoom Team,Nature's Prophet,0
+False,6573182161,11,Thunder Awaken,Pangolier,1
+False,6573182161,2,BetBoom Team,Sand King,0
+True,6573182161,6,Thunder Awaken,Tiny,1
+True,6573182161,17,Thunder Awaken,Batrider,1
+True,6573182161,23,Thunder Awaken,Templar Assassin,1
+True,6573182161,14,Thunder Awaken,Kunkka,1
+False,6573182161,18,BetBoom Team,Underlord,0
+True,6573182161,15,BetBoom Team,Death Prophet,0
+False,6573182161,20,BetBoom Team,Dragon Knight,0
+True,6573182161,22,BetBoom Team,Abaddon,0
+False,6573182161,13,Thunder Awaken,Puck,1
+True,6573182161,16,BetBoom Team,Bane,0
+False,6573182161,0,BetBoom Team,Snapfire,0
+False,6573182161,8,BetBoom Team,Spectre,0
+False,6573182161,19,Thunder Awaken,Oracle,1
+True,6573291227,4,OG,Io,0
+True,6573291227,6,TSM FTX,Chaos Knight,1
+False,6573291227,0,OG,Storm Spirit,0
+False,6573291227,12,OG,Grimstroke,0
+False,6573291227,10,OG,Keeper of the Light,0
+False,6573291227,3,TSM FTX,Timbersaw,1
+True,6573291227,23,TSM FTX,Void Spirit,1
+False,6573291227,11,TSM FTX,Pangolier,1
+True,6573291227,15,OG,Monkey King,0
+True,6573291227,7,OG,Razor,0
+False,6573291227,20,OG,Batrider,0
+False,6573291227,21,TSM FTX,Kunkka,1
+True,6573291227,5,TSM FTX,Underlord,1
+True,6573291227,17,TSM FTX,Mirana,1
+True,6573291227,22,OG,Invoker,0
+False,6573291227,1,TSM FTX,Enigma,1
+False,6573291227,19,TSM FTX,Puck,1
+False,6573291227,2,OG,Enchantress,0
+True,6573291227,14,TSM FTX,Bane,1
+False,6573291227,18,OG,Beastmaster,0
+False,6573291227,9,TSM FTX,Tidehunter,1
+True,6573291227,16,OG,Shadow Shaman,0
+False,6573291227,8,OG,Treant Protector,0
+False,6573291227,13,TSM FTX,Rubick,1
+False,6573503063,3,T1,Io,0
+False,6573503063,1,T1,Mars,0
+False,6573503063,9,T1,Chaos Knight,0
+True,6573503063,5,T1,Pugna,0
+True,6573503063,4,Gaimin Gladiators,Storm Spirit,1
+False,6573503063,19,T1,Viper,0
+False,6573503063,20,Gaimin Gladiators,Timbersaw,1
+False,6573503063,13,T1,Monkey King,0
+True,6573503063,22,Gaimin Gladiators,Tiny,1
+True,6573503063,14,T1,Lina,0
+False,6573503063,18,Gaimin Gladiators,Underlord,1
+False,6573503063,8,Gaimin Gladiators,Death Prophet,1
+False,6573503063,0,Gaimin Gladiators,Dragon Knight,1
+False,6573503063,10,Gaimin Gladiators,Invoker,1
+False,6573503063,11,T1,Bloodseeker,0
+False,6573503063,12,Gaimin Gladiators,Puck,1
+True,6573503063,7,Gaimin Gladiators,Enchantress,1
+True,6573503063,15,Gaimin Gladiators,Bane,1
+True,6573503063,6,T1,Shadow Shaman,0
+False,6573503063,2,Gaimin Gladiators,Treant Protector,1
+False,6573503063,21,T1,Phantom Assassin,0
+True,6573503063,16,Gaimin Gladiators,Lycan,1
+True,6573503063,17,T1,Bristleback,0
+True,6573503063,23,T1,Phoenix,0
+False,6573568264,2,T1,Io,0
+False,6573568264,0,T1,Mars,0
+True,6573568264,14,Gaimin Gladiators,Chaos Knight,1
+True,6573568264,5,Gaimin Gladiators,Storm Spirit,1
+True,6573568264,17,Gaimin Gladiators,Grimstroke,1
+False,6573568264,20,T1,Doom,0
+False,6573568264,18,T1,Timbersaw,0
+False,6573568264,21,Gaimin Gladiators,Void Spirit,1
+False,6573568264,8,T1,Monkey King,0
+True,6573568264,16,T1,Tiny,0
+False,6573568264,19,Gaimin Gladiators,Kunkka,1
+False,6573568264,12,T1,Underlord,0
+True,6573568264,22,T1,Leshrac,0
+False,6573568264,9,Gaimin Gladiators,Death Prophet,1
+True,6573568264,7,T1,Mirana,0
+False,6573568264,1,Gaimin Gladiators,Dragon Knight,1
+False,6573568264,11,Gaimin Gladiators,Invoker,1
+False,6573568264,10,T1,Bloodseeker,0
+False,6573568264,13,Gaimin Gladiators,Puck,1
+True,6573568264,6,Gaimin Gladiators,Enchantress,1
+True,6573568264,4,T1,Bane,0
+True,6573568264,23,Gaimin Gladiators,Beastmaster,1
+False,6573568264,3,Gaimin Gladiators,Treant Protector,1
+True,6573568264,15,T1,Brewmaster,0
+False,6574108422,0,beastcoast,Io,1
+False,6574108422,3,Team Spirit,Mars,0
+True,6574108422,5,Team Spirit,Chaos Knight,0
+False,6574108422,2,beastcoast,Storm Spirit,1
+True,6574108422,6,Team Spirit,Grimstroke,0
+False,6574108422,12,beastcoast,Doom,1
+False,6574108422,1,Team Spirit,Timbersaw,0
+True,6574108422,14,Team Spirit,Shadow Demon,0
+True,6574108422,22,beastcoast,Pangolier,1
+True,6574108422,23,Team Spirit,Sand King,0
+True,6574108422,15,beastcoast,Tiny,1
+True,6574108422,16,beastcoast,Batrider,1
+False,6574108422,19,Team Spirit,Templar Assassin,0
+False,6574108422,20,beastcoast,Lina,1
+False,6574108422,13,Team Spirit,Underlord,0
+True,6574108422,17,Team Spirit,Slardar,0
+False,6574108422,10,beastcoast,Ember Spirit,1
+True,6574108422,7,beastcoast,Bloodseeker,1
+False,6574108422,21,Team Spirit,Winter Wyvern,0
+False,6574108422,8,beastcoast,Puck,1
+False,6574108422,18,beastcoast,Queen of Pain,1
+True,6574108422,4,beastcoast,Snapfire,1
+False,6574108422,9,Team Spirit,Venomancer,0
+False,6574108422,11,Team Spirit,Phoenix,0
+False,6574188575,3,beastcoast,Io,1
+True,6574188575,7,Team Spirit,Mars,0
+False,6574188575,20,Team Spirit,Chaos Knight,0
+False,6574188575,1,beastcoast,Storm Spirit,1
+False,6574188575,13,beastcoast,Grimstroke,1
+False,6574188575,11,beastcoast,Keeper of the Light,1
+False,6574188575,0,Team Spirit,Timbersaw,0
+True,6574188575,15,Team Spirit,Visage,0
+True,6574188575,23,beastcoast,Troll Warlord,1
+True,6574188575,4,Team Spirit,Pangolier,0
+True,6574188575,16,Team Spirit,Monkey King,0
+True,6574188575,6,beastcoast,Tiny,1
+True,6574188575,17,beastcoast,Batrider,1
+False,6574188575,8,Team Spirit,Templar Assassin,0
+False,6574188575,10,Team Spirit,Ember Spirit,0
+False,6574188575,12,Team Spirit,Death Prophet,0
+False,6574188575,9,beastcoast,Mirana,1
+False,6574188575,2,Team Spirit,Bloodseeker,0
+False,6574188575,19,beastcoast,Abaddon,1
+True,6574188575,14,beastcoast,Bane,1
+True,6574188575,22,Team Spirit,Phantom Lancer,0
+True,6574188575,5,beastcoast,Snapfire,1
+False,6574188575,18,Team Spirit,Juggernaut,0
+False,6574188575,21,beastcoast,Oracle,1
+False,6574385083,2,BetBoom Team,Io,0
+True,6574385083,4,BetBoom Team,Mars,0
+False,6574385083,1,Team Liquid,Chaos Knight,1
+True,6574385083,6,Team Liquid,Pugna,1
+True,6574385083,5,Team Liquid,Storm Spirit,1
+True,6574385083,15,BetBoom Team,Grimstroke,0
+True,6574385083,22,BetBoom Team,Necrophos,0
+False,6574385083,3,Team Liquid,Visage,1
+False,6574385083,9,Team Liquid,Nature's Prophet,1
+False,6574385083,20,BetBoom Team,Pangolier,0
+False,6574385083,18,BetBoom Team,Sand King,0
+False,6574385083,8,BetBoom Team,Razor,0
+True,6574385083,23,Team Liquid,Batrider,1
+False,6574385083,19,Team Liquid,Death Prophet,1
+True,6574385083,14,Team Liquid,Mirana,1
+True,6574385083,16,BetBoom Team,Disruptor,0
+False,6574385083,0,BetBoom Team,Dragon Knight,0
+False,6574385083,13,Team Liquid,Abaddon,1
+False,6574385083,12,BetBoom Team,Enigma,0
+True,6574385083,7,BetBoom Team,Puck,0
+False,6574385083,11,Team Liquid,Bane,1
+False,6574385083,21,Team Liquid,Naga Siren,1
+False,6574385083,10,BetBoom Team,Spectre,0
+True,6574385083,17,Team Liquid,Lone Druid,1
+True,6574482766,6,Team Liquid,Io,0
+True,6574482766,4,BetBoom Team,Mars,1
+False,6574482766,3,Team Liquid,Chaos Knight,0
+False,6574482766,0,BetBoom Team,Pugna,1
+False,6574482766,2,BetBoom Team,Storm Spirit,1
+False,6574482766,18,BetBoom Team,Keeper of the Light,1
+False,6574482766,1,Team Liquid,Visage,0
+True,6574482766,7,BetBoom Team,Nature's Prophet,1
+False,6574482766,8,BetBoom Team,Pangolier,1
+True,6574482766,23,Team Liquid,Sand King,0
+True,6574482766,5,Team Liquid,Razor,0
+True,6574482766,17,Team Liquid,Batrider,0
+False,6574482766,20,BetBoom Team,Kunkka,1
+False,6574482766,19,Team Liquid,Lina,0
+False,6574482766,12,BetBoom Team,Dragon Knight,1
+False,6574482766,10,BetBoom Team,Enigma,1
+True,6574482766,16,BetBoom Team,Winter Wyvern,1
+False,6574482766,11,Team Liquid,Puck,0
+False,6574482766,21,Team Liquid,Queen of Pain,0
+False,6574482766,13,Team Liquid,Bane,0
+False,6574482766,9,Team Liquid,Ancient Apparition,0
+True,6574482766,14,Team Liquid,Snapfire,0
+True,6574482766,22,BetBoom Team,Windranger,1
+True,6574482766,15,BetBoom Team,Skywrath Mage,1
+False,6574848748,9,OG,Io,1
+True,6574848748,4,BOOM Esports,Mars,0
+True,6574848748,7,BOOM Esports,Chaos Knight,0
+False,6574848748,1,OG,Pugna,1
+True,6574848748,16,BOOM Esports,Storm Spirit,0
+False,6574848748,13,OG,Grimstroke,1
+True,6574848748,15,BOOM Esports,Keeper of the Light,0
+True,6574848748,5,OG,Timbersaw,1
+False,6574848748,10,BOOM Esports,Pangolier,0
+False,6574848748,3,OG,Monkey King,1
+False,6574848748,0,BOOM Esports,Razor,0
+False,6574848748,12,BOOM Esports,Templar Assassin,0
+False,6574848748,18,BOOM Esports,Lifestealer,0
+False,6574848748,21,OG,Death Prophet,1
+False,6574848748,2,BOOM Esports,Enigma,0
+True,6574848748,17,OG,Puck,1
+False,6574848748,19,OG,Shadow Shaman,1
+True,6574848748,6,OG,Windranger,1
+True,6574848748,23,OG,Morphling,1
+False,6574848748,20,BOOM Esports,Spectre,0
+False,6574848748,8,BOOM Esports,Phantom Assassin,0
+True,6574848748,22,BOOM Esports,Rubick,0
+True,6574848748,14,OG,Earthshaker,1
+False,6574848748,11,OG,Silencer,1
+True,6575506610,5,T1,Io,0
+True,6575506610,7,Fnatic,Chaos Knight,1
+False,6575506610,3,T1,Pugna,0
+True,6575506610,14,T1,Grimstroke,0
+True,6575506610,4,Fnatic,Doom,1
+False,6575506610,1,T1,Keeper of the Light,0
+False,6575506610,13,T1,Visage,0
+False,6575506610,19,T1,Nature's Prophet,0
+True,6575506610,17,T1,Void Spirit,0
+True,6575506610,6,T1,Pangolier,0
+False,6575506610,10,Fnatic,Tiny,1
+False,6575506610,21,T1,Templar Assassin,0
+True,6575506610,22,Fnatic,Kunkka,1
+False,6575506610,8,Fnatic,Leshrac,1
+False,6575506610,18,Fnatic,Medusa,1
+True,6575506610,16,Fnatic,Death Prophet,1
+False,6575506610,0,Fnatic,Dragon Knight,1
+True,6575506610,23,T1,Bloodseeker,0
+True,6575506610,15,Fnatic,Winter Wyvern,1
+False,6575506610,11,T1,Enchantress,0
+False,6575506610,9,T1,Beastmaster,0
+False,6575506610,2,Fnatic,Treant Protector,1
+False,6575506610,20,Fnatic,Ursa,1
+False,6575506610,12,Fnatic,Gyrocopter,1
+True,6575589562,7,Fnatic,Io,0
+True,6575589562,16,Fnatic,Mars,0
+True,6575589562,4,Fnatic,Chaos Knight,0
+False,6575589562,3,T1,Pugna,1
+False,6575589562,19,T1,Storm Spirit,1
+False,6575589562,10,Fnatic,Grimstroke,0
+True,6575589562,5,T1,Doom,1
+False,6575589562,1,T1,Keeper of the Light,1
+False,6575589562,12,Fnatic,Timbersaw,0
+True,6575589562,17,T1,Monkey King,1
+True,6575589562,23,T1,Tiny,1
+False,6575589562,20,Fnatic,Batrider,0
+False,6575589562,21,T1,Lina,1
+False,6575589562,8,Fnatic,Medusa,0
+False,6575589562,11,T1,Death Prophet,1
+False,6575589562,0,Fnatic,Dragon Knight,0
+False,6575589562,18,Fnatic,Puck,0
+True,6575589562,14,T1,Bane,1
+False,6575589562,9,T1,Beastmaster,1
+False,6575589562,13,T1,Shadow Shaman,1
+False,6575589562,2,Fnatic,Treant Protector,0
+True,6575589562,15,Fnatic,Snapfire,0
+True,6575589562,6,T1,Phoenix,1
+True,6575589562,22,Fnatic,Sniper,0
+False,6575685774,9,Fnatic,Io,1
+True,6575685774,16,T1,Mars,0
+False,6575685774,12,T1,Chaos Knight,0
+True,6575685774,4,T1,Pugna,0
+True,6575685774,7,T1,Storm Spirit,0
+False,6575685774,10,T1,Grimstroke,0
+True,6575685774,5,Fnatic,Doom,1
+False,6575685774,0,T1,Keeper of the Light,0
+True,6575685774,6,Fnatic,Visage,1
+False,6575685774,13,Fnatic,Monkey King,1
+False,6575685774,20,T1,Underlord,0
+False,6575685774,19,Fnatic,Medusa,1
+True,6575685774,17,Fnatic,Death Prophet,1
+False,6575685774,1,Fnatic,Dragon Knight,1
+True,6575685774,15,T1,Winter Wyvern,0
+False,6575685774,8,T1,Puck,0
+True,6575685774,14,Fnatic,Bane,1
+False,6575685774,2,T1,Beastmaster,0
+False,6575685774,3,Fnatic,Treant Protector,1
+False,6575685774,21,Fnatic,Phantom Lancer,1
+False,6575685774,18,T1,Spectre,0
+True,6575685774,22,T1,Phantom Assassin,0
+True,6575685774,23,Fnatic,Luna,1
+False,6575685774,11,Fnatic,Phoenix,1
+False,6575974930,9,Thunder Awaken,Io,0
+False,6575974930,8,Tundra Esports,Mars,1
+False,6575974930,3,Thunder Awaken,Chaos Knight,0
+False,6575974930,2,Tundra Esports,Pugna,1
+False,6575974930,11,Thunder Awaken,Grimstroke,0
+False,6575974930,0,Tundra Esports,Timbersaw,1
+False,6575974930,1,Thunder Awaken,Visage,0
+True,6575974930,7,Tundra Esports,Pangolier,1
+True,6575974930,16,Tundra Esports,Monkey King,1
+True,6575974930,5,Thunder Awaken,Sand King,0
+False,6575974930,21,Thunder Awaken,Wraith King,0
+True,6575974930,17,Thunder Awaken,Tiny,0
+False,6575974930,10,Tundra Esports,Batrider,1
+False,6575974930,18,Tundra Esports,Templar Assassin,1
+False,6575974930,12,Tundra Esports,Kunkka,1
+False,6575974930,19,Thunder Awaken,Medusa,0
+True,6575974930,6,Thunder Awaken,Mirana,0
+False,6575974930,20,Tundra Esports,Bloodseeker,1
+True,6575974930,14,Thunder Awaken,Bane,0
+False,6575974930,13,Thunder Awaken,Beastmaster,0
+True,6575974930,4,Tundra Esports,Snapfire,1
+True,6575974930,22,Tundra Esports,Luna,1
+True,6575974930,15,Tundra Esports,Lycan,1
+True,6575974930,23,Thunder Awaken,Magnus,0
+False,6576116877,3,Gaimin Gladiators,Io,0
+True,6576116877,4,TSM FTX,Mars,1
+False,6576116877,1,Gaimin Gladiators,Chaos Knight,0
+True,6576116877,22,TSM FTX,Pugna,1
+False,6576116877,0,TSM FTX,Storm Spirit,1
+True,6576116877,14,Gaimin Gladiators,Grimstroke,0
+True,6576116877,17,Gaimin Gladiators,Timbersaw,0
+True,6576116877,16,TSM FTX,Nature's Prophet,1
+False,6576116877,18,TSM FTX,Void Spirit,1
+True,6576116877,6,Gaimin Gladiators,Monkey King,0
+False,6576116877,20,TSM FTX,Sand King,1
+False,6576116877,9,Gaimin Gladiators,Razor,0
+True,6576116877,23,Gaimin Gladiators,Tiny,0
+False,6576116877,11,Gaimin Gladiators,Batrider,0
+True,6576116877,15,TSM FTX,Kunkka,1
+False,6576116877,10,TSM FTX,Ember Spirit,1
+False,6576116877,2,TSM FTX,Dragon Knight,1
+True,6576116877,5,Gaimin Gladiators,Enchantress,0
+False,6576116877,12,TSM FTX,Bane,1
+False,6576116877,13,Gaimin Gladiators,Shadow Shaman,0
+False,6576116877,21,Gaimin Gladiators,Treant Protector,0
+False,6576116877,8,TSM FTX,Snapfire,1
+False,6576116877,19,Gaimin Gladiators,Crystal Maiden,0
+True,6576116877,7,TSM FTX,Phoenix,1
+False,6576223979,3,Gaimin Gladiators,Io,0
+True,6576223979,4,TSM FTX,Mars,1
+False,6576223979,1,Gaimin Gladiators,Chaos Knight,0
+False,6576223979,13,Gaimin Gladiators,Pugna,0
+False,6576223979,0,TSM FTX,Storm Spirit,1
+False,6576223979,19,Gaimin Gladiators,Keeper of the Light,0
+False,6576223979,18,TSM FTX,Timbersaw,1
+True,6576223979,16,TSM FTX,Nature's Prophet,1
+True,6576223979,15,TSM FTX,Pangolier,1
+True,6576223979,6,Gaimin Gladiators,Monkey King,0
+False,6576223979,9,Gaimin Gladiators,Razor,0
+False,6576223979,11,Gaimin Gladiators,Batrider,0
+False,6576223979,10,TSM FTX,Ember Spirit,1
+False,6576223979,2,TSM FTX,Mirana,1
+True,6576223979,22,TSM FTX,Abaddon,1
+True,6576223979,17,Gaimin Gladiators,Puck,0
+True,6576223979,5,Gaimin Gladiators,Enchantress,0
+False,6576223979,12,TSM FTX,Bane,1
+True,6576223979,23,Gaimin Gladiators,Beastmaster,0
+True,6576223979,14,Gaimin Gladiators,Shadow Shaman,0
+False,6576223979,21,Gaimin Gladiators,Treant Protector,0
+False,6576223979,8,TSM FTX,Snapfire,1
+False,6576223979,20,TSM FTX,Lycan,1
+True,6576223979,7,TSM FTX,Phoenix,1
+False,6578354994,9,beastcoast,Io,0
+False,6578354994,18,BetBoom Team,Mars,1
+True,6578354994,4,BetBoom Team,Chaos Knight,1
+True,6578354994,15,BetBoom Team,Pugna,1
+False,6578354994,3,beastcoast,Storm Spirit,0
+True,6578354994,6,beastcoast,Grimstroke,0
+False,6578354994,19,beastcoast,Viper,0
+False,6578354994,0,BetBoom Team,Timbersaw,1
+False,6578354994,1,beastcoast,Visage,0
+True,6578354994,7,BetBoom Team,Nature's Prophet,1
+False,6578354994,20,BetBoom Team,Void Spirit,1
+False,6578354994,11,beastcoast,Pangolier,0
+True,6578354994,14,beastcoast,Tusk,0
+True,6578354994,5,beastcoast,Tiny,0
+False,6578354994,8,BetBoom Team,Batrider,1
+False,6578354994,12,BetBoom Team,Templar Assassin,1
+False,6578354994,21,beastcoast,Underlord,0
+True,6578354994,16,BetBoom Team,Leshrac,1
+False,6578354994,10,BetBoom Team,Bloodseeker,1
+True,6578354994,23,beastcoast,Beastmaster,0
+False,6578354994,13,beastcoast,Shadow Shaman,0
+True,6578354994,22,BetBoom Team,Undying,1
+False,6578354994,2,BetBoom Team,Snapfire,1
+True,6578354994,17,beastcoast,Spectre,0
+False,6578432820,21,beastcoast,Io,1
+True,6578432820,4,BetBoom Team,Chaos Knight,0
+True,6578432820,5,beastcoast,Pugna,1
+True,6578432820,6,beastcoast,Storm Spirit,1
+True,6578432820,7,BetBoom Team,Grimstroke,0
+False,6578432820,11,beastcoast,Doom,1
+False,6578432820,0,BetBoom Team,Timbersaw,0
+False,6578432820,1,beastcoast,Visage,1
+False,6578432820,3,beastcoast,Nature's Prophet,1
+True,6578432820,15,BetBoom Team,Void Spirit,0
+False,6578432820,18,BetBoom Team,Troll Warlord,0
+False,6578432820,9,beastcoast,Pangolier,1
+True,6578432820,23,beastcoast,Wraith King,1
+True,6578432820,14,beastcoast,Tiny,1
+False,6578432820,10,BetBoom Team,Templar Assassin,0
+True,6578432820,17,beastcoast,Underlord,1
+False,6578432820,12,BetBoom Team,Lifestealer,0
+False,6578432820,19,beastcoast,Death Prophet,1
+False,6578432820,8,BetBoom Team,Bloodseeker,0
+False,6578432820,13,beastcoast,Puck,1
+True,6578432820,16,BetBoom Team,Spirit Breaker,0
+True,6578432820,22,BetBoom Team,Shadow Shaman,0
+False,6578432820,2,BetBoom Team,Snapfire,0
+False,6578432820,20,BetBoom Team,Luna,0
+False,6578674296,12,Fnatic,Io,0
+True,6578674296,23,OG,Mars,1
+False,6578674296,1,OG,Chaos Knight,1
+False,6578674296,3,OG,Storm Spirit,1
+False,6578674296,9,OG,Grimstroke,1
+True,6578674296,4,Fnatic,Doom,0
+True,6578674296,15,Fnatic,Keeper of the Light,0
+False,6578674296,20,Fnatic,Viper,0
+False,6578674296,0,Fnatic,Timbersaw,0
+True,6578674296,7,Fnatic,Visage,0
+True,6578674296,6,OG,Pangolier,1
+False,6578674296,10,Fnatic,Monkey King,0
+True,6578674296,22,Fnatic,Wraith King,0
+False,6578674296,2,Fnatic,Razor,0
+False,6578674296,21,OG,Templar Assassin,1
+False,6578674296,18,Fnatic,Huskar,0
+False,6578674296,8,Fnatic,Underlord,0
+True,6578674296,16,Fnatic,Ember Spirit,0
+False,6578674296,11,OG,Death Prophet,1
+False,6578674296,13,OG,Bloodseeker,1
+True,6578674296,5,OG,Enigma,1
+True,6578674296,14,OG,Windranger,1
+False,6578674296,19,OG,Luna,1
+True,6578674296,17,OG,Juggernaut,1
+False,6579091075,0,beastcoast,Io,0
+False,6579091075,20,beastcoast,Mars,0
+True,6579091075,5,Gaimin Gladiators,Chaos Knight,1
+True,6579091075,4,beastcoast,Pugna,0
+False,6579091075,2,beastcoast,Storm Spirit,0
+True,6579091075,14,Gaimin Gladiators,Grimstroke,1
+False,6579091075,1,Gaimin Gladiators,Timbersaw,1
+False,6579091075,12,beastcoast,Pangolier,0
+False,6579091075,11,Gaimin Gladiators,Tusk,1
+False,6579091075,9,Gaimin Gladiators,Tiny,1
+True,6579091075,7,beastcoast,Batrider,0
+False,6579091075,21,Gaimin Gladiators,Kunkka,1
+False,6579091075,13,Gaimin Gladiators,Underlord,1
+True,6579091075,17,Gaimin Gladiators,Ember Spirit,1
+False,6579091075,19,Gaimin Gladiators,Death Prophet,1
+False,6579091075,10,beastcoast,Mirana,0
+False,6579091075,18,beastcoast,Dragon Knight,0
+True,6579091075,16,beastcoast,Bloodseeker,0
+True,6579091075,15,beastcoast,Spirit Breaker,0
+True,6579091075,6,Gaimin Gladiators,Enchantress,1
+False,6579091075,8,beastcoast,Beastmaster,0
+False,6579091075,3,Gaimin Gladiators,Snapfire,1
+True,6579091075,23,Gaimin Gladiators,Legion Commander,1
+True,6579091075,22,beastcoast,Bristleback,0
+True,6579165262,6,beastcoast,Io,0
+True,6579165262,5,beastcoast,Mars,0
+True,6579165262,4,Gaimin Gladiators,Chaos Knight,1
+False,6579165262,1,beastcoast,Storm Spirit,0
+False,6579165262,9,beastcoast,Grimstroke,0
+True,6579165262,15,Gaimin Gladiators,Keeper of the Light,1
+False,6579165262,2,Gaimin Gladiators,Timbersaw,1
+True,6579165262,22,Gaimin Gladiators,Monkey King,1
+False,6579165262,20,Gaimin Gladiators,Razor,1
+True,6579165262,17,beastcoast,Kunkka,0
+False,6579165262,8,Gaimin Gladiators,Underlord,1
+True,6579165262,7,Gaimin Gladiators,Ember Spirit,1
+False,6579165262,10,Gaimin Gladiators,Leshrac,1
+False,6579165262,12,Gaimin Gladiators,Medusa,1
+False,6579165262,21,beastcoast,Dragon Knight,0
+False,6579165262,18,Gaimin Gladiators,Bloodseeker,1
+False,6579165262,3,beastcoast,Enchantress,0
+True,6579165262,16,Gaimin Gladiators,Bane,1
+False,6579165262,13,beastcoast,Beastmaster,0
+False,6579165262,0,Gaimin Gladiators,Snapfire,1
+False,6579165262,19,beastcoast,Legion Commander,0
+False,6579165262,11,beastcoast,Chen,0
+True,6579165262,23,beastcoast,Gyrocopter,0
+True,6579165262,14,beastcoast,Rubick,0
+False,6579931950,11,Thunder Awaken,Io,0
+True,6579931950,6,Thunder Awaken,Mars,0
+True,6579931950,4,OG,Chaos Knight,1
+True,6579931950,5,Thunder Awaken,Pugna,0
+False,6579931950,10,OG,Storm Spirit,1
+False,6579931950,13,Thunder Awaken,Grimstroke,0
+False,6579931950,12,OG,Terrorblade,1
+False,6579931950,2,OG,Viper,1
+False,6579931950,3,Thunder Awaken,Timbersaw,0
+True,6579931950,22,OG,Void Spirit,1
+False,6579931950,9,Thunder Awaken,Pangolier,0
+True,6579931950,14,Thunder Awaken,Tusk,0
+True,6579931950,7,OG,Razor,1
+False,6579931950,0,OG,Tiny,1
+False,6579931950,20,OG,Templar Assassin,1
+True,6579931950,23,Thunder Awaken,Faceless Void,0
+False,6579931950,21,Thunder Awaken,Ember Spirit,0
+False,6579931950,1,Thunder Awaken,Enigma,0
+False,6579931950,19,Thunder Awaken,Puck,0
+False,6579931950,18,OG,Anti-Mage,1
+True,6579931950,17,Thunder Awaken,Snapfire,0
+True,6579931950,15,OG,Windranger,1
+False,6579931950,8,OG,Morphling,1
+True,6579931950,16,OG,Phoenix,1
+True,6580504708,5,Tundra Esports,Io,0
+True,6580504708,14,Tundra Esports,Mars,0
+False,6580504708,3,Tundra Esports,Chaos Knight,0
+False,6580504708,1,Tundra Esports,Pugna,0
+False,6580504708,10,TSM FTX,Storm Spirit,1
+False,6580504708,11,Tundra Esports,Grimstroke,0
+True,6580504708,4,TSM FTX,Doom,1
+True,6580504708,17,Tundra Esports,Viper,0
+False,6580504708,2,TSM FTX,Visage,1
+False,6580504708,19,Tundra Esports,Nature's Prophet,0
+True,6580504708,7,TSM FTX,Pangolier,1
+True,6580504708,6,Tundra Esports,Monkey King,0
+False,6580504708,20,TSM FTX,Wraith King,1
+False,6580504708,12,TSM FTX,Batrider,1
+True,6580504708,15,TSM FTX,Templar Assassin,1
+False,6580504708,13,Tundra Esports,Kunkka,0
+False,6580504708,18,TSM FTX,Bloodseeker,1
+True,6580504708,22,TSM FTX,Enigma,1
+True,6580504708,16,TSM FTX,Enchantress,1
+False,6580504708,9,Tundra Esports,Bane,0
+False,6580504708,0,TSM FTX,Beastmaster,1
+False,6580504708,21,Tundra Esports,Night Stalker,0
+False,6580504708,8,TSM FTX,Lycan,1
+True,6580504708,23,Tundra Esports,Gyrocopter,0
+False,6580625364,13,OG,Io,1
+True,6580625364,4,Gaimin Gladiators,Chaos Knight,0
+False,6580625364,3,OG,Pugna,1
+False,6580625364,1,OG,Storm Spirit,1
+True,6580625364,14,OG,Doom,1
+True,6580625364,22,Gaimin Gladiators,Keeper of the Light,0
+True,6580625364,5,OG,Timbersaw,1
+False,6580625364,19,OG,Void Spirit,1
+True,6580625364,17,OG,Troll Warlord,1
+False,6580625364,12,Gaimin Gladiators,Pangolier,0
+True,6580625364,15,Gaimin Gladiators,Monkey King,0
+False,6580625364,0,Gaimin Gladiators,Razor,0
+True,6580625364,23,OG,Tiny,1
+False,6580625364,20,Gaimin Gladiators,Batrider,0
+False,6580625364,8,Gaimin Gladiators,Kunkka,0
+False,6580625364,9,OG,Ember Spirit,1
+False,6580625364,11,OG,Leshrac,1
+False,6580625364,10,Gaimin Gladiators,Medusa,0
+False,6580625364,21,OG,Invoker,1
+False,6580625364,2,Gaimin Gladiators,Enigma,0
+False,6580625364,18,Gaimin Gladiators,Puck,0
+True,6580625364,7,Gaimin Gladiators,Enchantress,0
+True,6580625364,16,Gaimin Gladiators,Bane,0
+True,6580625364,6,OG,Windranger,1
+False,6580732041,9,Gaimin Gladiators,Io,0
+True,6580732041,5,Gaimin Gladiators,Mars,0
+False,6580732041,3,Gaimin Gladiators,Chaos Knight,0
+False,6580732041,0,OG,Storm Spirit,1
+True,6580732041,14,Gaimin Gladiators,Grimstroke,0
+False,6580732041,11,Gaimin Gladiators,Doom,0
+False,6580732041,1,Gaimin Gladiators,Timbersaw,0
+True,6580732041,15,OG,Void Spirit,1
+False,6580732041,19,Gaimin Gladiators,Monkey King,0
+True,6580732041,22,OG,Wraith King,1
+True,6580732041,7,OG,Razor,1
+True,6580732041,17,Gaimin Gladiators,Tiny,0
+True,6580732041,16,OG,Clockwerk,1
+False,6580732041,2,OG,Ember Spirit,1
+False,6580732041,8,OG,Bloodseeker,1
+False,6580732041,13,Gaimin Gladiators,Enigma,0
+True,6580732041,6,Gaimin Gladiators,Enchantress,0
+False,6580732041,10,OG,Beastmaster,1
+True,6580732041,23,Gaimin Gladiators,Anti-Mage,0
+True,6580732041,4,OG,Windranger,1
+False,6580732041,12,OG,Lycan,1
+False,6580732041,21,Gaimin Gladiators,Juggernaut,0
+False,6580732041,18,OG,Lone Druid,1
+False,6580732041,20,OG,Meepo,1
+True,6581700268,16,OG,Io,1
+True,6581700268,4,OG,Chaos Knight,1
+True,6581700268,5,Tundra Esports,Pugna,0
+True,6581700268,14,Tundra Esports,Doom,0
+False,6581700268,11,Tundra Esports,Viper,0
+False,6581700268,1,Tundra Esports,Timbersaw,0
+False,6581700268,2,OG,Visage,1
+True,6581700268,23,Tundra Esports,Troll Warlord,0
+True,6581700268,6,Tundra Esports,Pangolier,0
+True,6581700268,15,OG,Monkey King,1
+False,6581700268,3,Tundra Esports,Razor,0
+False,6581700268,10,OG,Tiny,1
+False,6581700268,20,OG,Lifestealer,1
+False,6581700268,19,Tundra Esports,Slardar,0
+False,6581700268,12,OG,Medusa,1
+True,6581700268,22,OG,Bloodseeker,1
+False,6581700268,13,Tundra Esports,Enigma,0
+True,6581700268,7,OG,Puck,1
+False,6581700268,0,OG,Beastmaster,1
+True,6581700268,17,Tundra Esports,Hoodwink,0
+False,6581700268,18,OG,Naga Siren,1
+False,6581700268,9,Tundra Esports,Windranger,0
+False,6581700268,21,Tundra Esports,Night Stalker,0
+False,6581700268,8,OG,Lycan,1
+False,6582379623,21,OG,Io,1
+True,6582379623,17,OG,Mars,1
+False,6582379623,1,OG,Chaos Knight,1
+False,6582379623,9,OG,Pugna,1
+True,6582379623,5,OG,Storm Spirit,1
+True,6582379623,14,OG,Grimstroke,1
+False,6582379623,18,TSM FTX,Terrorblade,0
+False,6582379623,8,TSM FTX,Viper,0
+False,6582379623,0,TSM FTX,Timbersaw,0
+False,6582379623,12,TSM FTX,Monkey King,0
+True,6582379623,16,TSM FTX,Wraith King,0
+False,6582379623,2,TSM FTX,Razor,0
+False,6582379623,10,TSM FTX,Underlord,0
+True,6582379623,15,TSM FTX,Leshrac,0
+False,6582379623,20,TSM FTX,Medusa,0
+False,6582379623,11,OG,Death Prophet,1
+True,6582379623,7,TSM FTX,Dragon Knight,0
+True,6582379623,23,OG,Bloodseeker,1
+False,6582379623,3,OG,Enigma,1
+False,6582379623,13,OG,Enchantress,1
+True,6582379623,4,TSM FTX,Snapfire,0
+True,6582379623,6,OG,Windranger,1
+False,6582379623,19,OG,Night Stalker,1
+True,6582379623,22,TSM FTX,Silencer,0
+True,6566559037,4,beastcoast,Mars,0
+False,6566559037,3,OG,Chaos Knight,1
+True,6566559037,6,OG,Pugna,1
+False,6566559037,1,OG,Storm Spirit,1
+True,6566559037,14,OG,Grimstroke,1
+False,6566559037,2,beastcoast,Timbersaw,0
+True,6566559037,7,beastcoast,Shadow Demon,0
+True,6566559037,17,OG,Void Spirit,1
+False,6566559037,20,beastcoast,Sand King,0
+False,6566559037,21,OG,Wraith King,1
+False,6566559037,0,beastcoast,Razor,0
+True,6566559037,5,OG,Tiny,1
+False,6566559037,8,beastcoast,Batrider,0
+False,6566559037,9,OG,Nyx Assassin,1
+False,6566559037,10,beastcoast,Templar Assassin,0
+False,6566559037,11,OG,Kunkka,1
+False,6566559037,12,beastcoast,Huskar,0
+False,6566559037,13,OG,Shadow Fiend,1
+True,6566559037,15,beastcoast,Clockwerk,0
+True,6566559037,16,beastcoast,Lina,0
+False,6566559037,18,beastcoast,Underlord,0
+False,6566559037,19,OG,Faceless Void,1
+True,6566559037,22,beastcoast,Lifestealer,0
+True,6566559037,23,OG,Slardar,1
+True,6566627889,4,BetBoom Team,Mars,1
+True,6566627889,16,BetBoom Team,Chaos Knight,1
+True,6566627889,15,BetBoom Team,Pugna,1
+False,6566627889,2,BetBoom Team,Storm Spirit,1
+True,6566627889,5,BOOM Esports,Grimstroke,0
+True,6566627889,17,BOOM Esports,Terrorblade,0
+False,6566627889,21,BOOM Esports,Necrophos,0
+False,6566627889,0,BetBoom Team,Keeper of the Light,1
+False,6566627889,1,BOOM Esports,Visage,0
+False,6566627889,3,BOOM Esports,Nature's Prophet,0
+False,6566627889,19,BOOM Esports,Pangolier,0
+True,6566627889,23,BOOM Esports,Tusk,0
+True,6566627889,6,BOOM Esports,Sand King,0
+False,6566627889,18,BetBoom Team,Batrider,1
+False,6566627889,10,BetBoom Team,Kunkka,1
+False,6566627889,11,BOOM Esports,Lina,0
+False,6566627889,8,BetBoom Team,Ember Spirit,1
+True,6566627889,22,BetBoom Team,Leshrac,1
+False,6566627889,12,BetBoom Team,Medusa,1
+True,6566627889,14,BOOM Esports,Death Prophet,0
+True,6566627889,7,BetBoom Team,Mirana,1
+False,6566627889,9,BOOM Esports,Dragon Knight,0
+False,6566627889,13,BOOM Esports,Invoker,0
+False,6566627889,20,BetBoom Team,Abaddon,1
+True,6566631729,15,OG,Mars,1
+True,6566631729,7,OG,Pugna,1
+False,6566631729,3,beastcoast,Storm Spirit,0
+False,6566631729,2,OG,Grimstroke,1
+True,6566631729,22,OG,Keeper of the Light,1
+True,6566631729,6,beastcoast,Timbersaw,0
+False,6566631729,19,beastcoast,Void Spirit,0
+True,6566631729,16,OG,Monkey King,1
+True,6566631729,23,beastcoast,Sand King,0
+False,6566631729,12,OG,Wraith King,1
+False,6566631729,1,beastcoast,Razor,0
+False,6566631729,18,OG,Batrider,1
+False,6566631729,0,OG,Nyx Assassin,1
+False,6566631729,20,OG,Kunkka,1
+False,6566631729,13,beastcoast,Huskar,0
+False,6566631729,10,OG,Faceless Void,1
+False,6566631729,8,OG,Ember Spirit,1
+False,6566631729,9,beastcoast,Invoker,0
+True,6566631729,17,beastcoast,Bloodseeker,0
+True,6566631729,4,OG,Enigma,1
+True,6566631729,5,beastcoast,Winter Wyvern,0
+False,6566631729,11,beastcoast,Puck,0
+True,6566631729,14,beastcoast,Spirit Breaker,0
+False,6566631729,21,beastcoast,Queen of Pain,0
+True,6566767216,7,BOOM Esports,Mars,1
+False,6566767216,3,OG,Chaos Knight,0
+False,6566767216,2,BOOM Esports,Pugna,1
+False,6566767216,1,OG,Storm Spirit,0
+False,6566767216,12,BOOM Esports,Grimstroke,1
+False,6566767216,9,OG,Terrorblade,0
+True,6566767216,4,BOOM Esports,Keeper of the Light,1
+False,6566767216,0,BOOM Esports,Timbersaw,1
+True,6566767216,23,OG,Sand King,0
+True,6566767216,6,OG,Razor,0
+False,6566767216,21,OG,Tiny,0
+True,6566767216,5,OG,Nyx Assassin,0
+True,6566767216,16,BOOM Esports,Templar Assassin,1
+True,6566767216,17,OG,Kunkka,0
+False,6566767216,8,BOOM Esports,Huskar,1
+False,6566767216,20,BOOM Esports,Underlord,1
+False,6566767216,19,OG,Ember Spirit,0
+False,6566767216,10,BOOM Esports,Enigma,1
+True,6566767216,14,OG,Winter Wyvern,0
+False,6566767216,11,OG,Bane,0
+False,6566767216,13,OG,Shadow Shaman,0
+True,6566767216,15,BOOM Esports,Treant Protector,1
+False,6566767216,18,BOOM Esports,Phantom Lancer,1
+True,6566767216,22,BOOM Esports,Riki,1
+False,6567147786,3,Team Liquid,Mars,0
+True,6567147786,23,Team Liquid,Chaos Knight,0
+True,6567147786,4,Thunder Awaken,Pugna,1
+False,6567147786,9,Team Liquid,Storm Spirit,0
+False,6567147786,0,Thunder Awaken,Grimstroke,1
+True,6567147786,22,Thunder Awaken,Doom,1
+False,6567147786,12,Thunder Awaken,Necrophos,1
+False,6567147786,8,Thunder Awaken,Viper,1
+False,6567147786,1,Team Liquid,Timbersaw,0
+False,6567147786,18,Thunder Awaken,Visage,1
+True,6567147786,6,Team Liquid,Nature's Prophet,0
+False,6567147786,2,Thunder Awaken,Pangolier,1
+True,6567147786,16,Thunder Awaken,Tiny,1
+False,6567147786,19,Team Liquid,Batrider,0
+False,6567147786,13,Team Liquid,Underlord,0
+True,6567147786,17,Team Liquid,Ember Spirit,0
+False,6567147786,20,Thunder Awaken,Death Prophet,1
+False,6567147786,21,Team Liquid,Puck,0
+True,6567147786,14,Team Liquid,Undying,0
+False,6567147786,11,Team Liquid,Snapfire,0
+True,6567147786,7,Thunder Awaken,Spectre,1
+False,6567147786,10,Thunder Awaken,Venomancer,1
+True,6567147786,5,Team Liquid,Brewmaster,0
+True,6567147786,15,Thunder Awaken,Weaver,1
+True,6567928490,5,beastcoast,Mars,1
+True,6567928490,22,BOOM Esports,Chaos Knight,0
+True,6567928490,4,BOOM Esports,Pugna,0
+False,6567928490,1,beastcoast,Storm Spirit,1
+False,6567928490,10,BOOM Esports,Terrorblade,0
+False,6567928490,3,beastcoast,Keeper of the Light,1
+False,6567928490,0,BOOM Esports,Timbersaw,0
+False,6567928490,2,BOOM Esports,Shadow Demon,0
+True,6567928490,23,beastcoast,Troll Warlord,1
+False,6567928490,9,beastcoast,Pangolier,1
+True,6567928490,7,BOOM Esports,Monkey King,0
+False,6567928490,11,beastcoast,Sand King,1
+False,6567928490,8,BOOM Esports,Razor,0
+False,6567928490,12,BOOM Esports,Templar Assassin,0
+False,6567928490,13,beastcoast,Kunkka,1
+False,6567928490,21,beastcoast,Lifestealer,1
+True,6567928490,15,BOOM Esports,Death Prophet,0
+True,6567928490,16,BOOM Esports,Dragon Knight,0
+False,6567928490,18,BOOM Esports,Bloodseeker,0
+True,6567928490,6,beastcoast,Enchantress,1
+False,6567928490,19,beastcoast,Riki,1
+True,6567928490,17,beastcoast,Venomancer,1
+False,6567928490,20,BOOM Esports,Juggernaut,0
+True,6567928490,14,beastcoast,Earth Spirit,1
+True,6567999161,4,beastcoast,Mars,0
+True,6567999161,6,BOOM Esports,Pugna,1
+False,6567999161,2,beastcoast,Storm Spirit,0
+True,6567999161,17,BOOM Esports,Grimstroke,1
+False,6567999161,0,beastcoast,Keeper of the Light,0
+False,6567999161,1,BOOM Esports,Timbersaw,1
+True,6567999161,23,BOOM Esports,Void Spirit,1
+False,6567999161,10,beastcoast,Pangolier,0
+True,6567999161,5,BOOM Esports,Monkey King,1
+False,6567999161,11,BOOM Esports,Razor,1
+False,6567999161,20,beastcoast,Templar Assassin,0
+False,6567999161,8,beastcoast,Kunkka,0
+False,6567999161,13,BOOM Esports,Lifestealer,1
+False,6567999161,18,beastcoast,Ember Spirit,0
+True,6567999161,22,beastcoast,Disruptor,0
+False,6567999161,12,beastcoast,Dragon Knight,0
+False,6567999161,19,BOOM Esports,Invoker,1
+False,6567999161,21,BOOM Esports,Puck,1
+False,6567999161,3,BOOM Esports,Enchantress,1
+False,6567999161,9,BOOM Esports,Venomancer,1
+True,6567999161,16,beastcoast,Juggernaut,0
+True,6567999161,14,BOOM Esports,Brewmaster,1
+True,6567999161,15,beastcoast,Phoenix,0
+True,6567999161,7,beastcoast,Earth Spirit,0
+True,6568101177,7,beastcoast,Mars,1
+True,6568101177,23,T1,Chaos Knight,0
+True,6568101177,4,beastcoast,Pugna,1
+False,6568101177,0,beastcoast,Storm Spirit,1
+True,6568101177,5,T1,Grimstroke,0
+False,6568101177,2,beastcoast,Keeper of the Light,1
+False,6568101177,18,beastcoast,Viper,1
+False,6568101177,1,T1,Timbersaw,0
+False,6568101177,8,beastcoast,Void Spirit,1
+True,6568101177,6,T1,Tiny,0
+False,6568101177,20,beastcoast,Batrider,1
+True,6568101177,22,beastcoast,Templar Assassin,1
+False,6568101177,13,T1,Lifestealer,0
+False,6568101177,21,T1,Death Prophet,0
+True,6568101177,14,T1,Mirana,0
+True,6568101177,17,T1,Dragon Knight,0
+True,6568101177,15,beastcoast,Bloodseeker,1
+False,6568101177,10,beastcoast,Puck,1
+False,6568101177,19,T1,Queen of Pain,0
+False,6568101177,3,T1,Enchantress,0
+False,6568101177,12,beastcoast,Treant Protector,1
+False,6568101177,9,T1,Venomancer,0
+False,6568101177,11,T1,Earth Spirit,0
+True,6568101177,16,beastcoast,Rubick,1
+False,6568188836,8,Tundra Esports,Mars,1
+False,6568188836,1,OG,Chaos Knight,0
+True,6568188836,4,Tundra Esports,Pugna,1
+False,6568188836,18,Tundra Esports,Storm Spirit,1
+True,6568188836,6,OG,Grimstroke,0
+False,6568188836,3,OG,Doom,0
+False,6568188836,12,Tundra Esports,Viper,1
+False,6568188836,0,Tundra Esports,Timbersaw,1
+True,6568188836,7,Tundra Esports,Visage,1
+True,6568188836,23,OG,Nature's Prophet,0
+True,6568188836,15,Tundra Esports,Pangolier,1
+False,6568188836,10,Tundra Esports,Monkey King,1
+True,6568188836,16,Tundra Esports,Wraith King,1
+False,6568188836,2,Tundra Esports,Razor,1
+True,6568188836,5,OG,Tiny,0
+False,6568188836,13,OG,Kunkka,0
+True,6568188836,14,OG,Clockwerk,0
+True,6568188836,17,OG,Underlord,0
+False,6568188836,20,Tundra Esports,Ember Spirit,1
+False,6568188836,19,OG,Death Prophet,0
+False,6568188836,9,OG,Dragon Knight,0
+False,6568188836,11,OG,Hoodwink,0
+True,6568188836,22,Tundra Esports,Phoenix,1
+False,6568188836,21,OG,Rubick,0
+True,6568237950,4,beastcoast,Mars,0
+False,6568237950,9,T1,Chaos Knight,1
+False,6568237950,3,T1,Pugna,1
+False,6568237950,2,beastcoast,Storm Spirit,0
+True,6568237950,6,T1,Grimstroke,1
+False,6568237950,0,beastcoast,Keeper of the Light,0
+False,6568237950,1,T1,Timbersaw,1
+True,6568237950,7,beastcoast,Shadow Demon,0
+False,6568237950,10,beastcoast,Void Spirit,0
+True,6568237950,17,T1,Batrider,1
+False,6568237950,11,T1,Templar Assassin,1
+False,6568237950,19,T1,Faceless Void,1
+False,6568237950,21,T1,Lifestealer,1
+False,6568237950,20,beastcoast,Slardar,0
+True,6568237950,16,beastcoast,Death Prophet,0
+False,6568237950,8,beastcoast,Mirana,0
+True,6568237950,5,T1,Dragon Knight,1
+False,6568237950,13,T1,Bloodseeker,1
+False,6568237950,12,beastcoast,Puck,0
+True,6568237950,23,T1,Queen of Pain,1
+True,6568237950,14,T1,Treant Protector,1
+True,6568237950,15,beastcoast,Undying,0
+True,6568237950,22,beastcoast,Luna,0
+False,6568237950,18,beastcoast,Brewmaster,0
+False,6569867107,0,Tundra Esports,Mars,1
+False,6569867107,1,BOOM Esports,Chaos Knight,0
+True,6569867107,4,Tundra Esports,Pugna,1
+False,6569867107,3,BOOM Esports,Grimstroke,0
+False,6569867107,9,BOOM Esports,Doom,0
+False,6569867107,19,BOOM Esports,Terrorblade,0
+False,6569867107,13,BOOM Esports,Keeper of the Light,0
+True,6569867107,7,Tundra Esports,Visage,1
+True,6569867107,16,Tundra Esports,Void Spirit,1
+False,6569867107,2,Tundra Esports,Pangolier,1
+False,6569867107,8,Tundra Esports,Monkey King,1
+True,6569867107,23,BOOM Esports,Razor,0
+True,6569867107,17,BOOM Esports,Templar Assassin,0
+False,6569867107,20,Tundra Esports,Underlord,1
+False,6569867107,10,Tundra Esports,Ember Spirit,1
+False,6569867107,12,Tundra Esports,Medusa,1
+True,6569867107,6,BOOM Esports,Mirana,0
+True,6569867107,5,BOOM Esports,Dragon Knight,0
+False,6569867107,11,BOOM Esports,Hoodwink,0
+True,6569867107,15,Tundra Esports,Treant Protector,1
+False,6569867107,18,Tundra Esports,Riki,1
+False,6569867107,21,BOOM Esports,Spectre,0
+True,6569867107,22,Tundra Esports,Luna,1
+True,6569867107,14,BOOM Esports,Weaver,0
+True,6570016479,5,Thunder Awaken,Mars,0
+True,6570016479,15,Fnatic,Chaos Knight,1
+True,6570016479,4,Fnatic,Pugna,1
+True,6570016479,7,Fnatic,Storm Spirit,1
+False,6570016479,11,Thunder Awaken,Grimstroke,0
+True,6570016479,14,Thunder Awaken,Doom,0
+False,6570016479,3,Thunder Awaken,Keeper of the Light,0
+False,6570016479,2,Fnatic,Timbersaw,1
+True,6570016479,17,Thunder Awaken,Pangolier,0
+False,6570016479,9,Thunder Awaken,Wraith King,0
+False,6570016479,10,Fnatic,Templar Assassin,1
+False,6570016479,8,Fnatic,Lina,1
+False,6570016479,12,Fnatic,Medusa,1
+False,6570016479,13,Thunder Awaken,Dragon Knight,0
+False,6570016479,19,Thunder Awaken,Bloodseeker,0
+True,6570016479,6,Thunder Awaken,Bane,0
+True,6570016479,22,Fnatic,Beastmaster,1
+True,6570016479,16,Fnatic,Hoodwink,1
+False,6570016479,1,Thunder Awaken,Shadow Shaman,0
+False,6570016479,20,Fnatic,Anti-Mage,1
+False,6570016479,0,Fnatic,Snapfire,1
+False,6570016479,18,Fnatic,Spectre,1
+True,6570016479,23,Thunder Awaken,Phantom Assassin,0
+False,6570016479,21,Thunder Awaken,Lone Druid,0
+True,6570116439,5,Thunder Awaken,Mars,1
+False,6570116439,11,Thunder Awaken,Chaos Knight,1
+False,6570116439,3,Thunder Awaken,Pugna,1
+False,6570116439,20,Fnatic,Storm Spirit,0
+True,6570116439,4,Fnatic,Keeper of the Light,0
+True,6570116439,14,Thunder Awaken,Viper,1
+False,6570116439,2,Fnatic,Timbersaw,0
+False,6570116439,8,Fnatic,Templar Assassin,0
+True,6570116439,15,Fnatic,Lifestealer,0
+False,6570116439,18,Fnatic,Slardar,0
+False,6570116439,12,Fnatic,Medusa,0
+True,6570116439,23,Thunder Awaken,Death Prophet,1
+True,6570116439,6,Thunder Awaken,Mirana,1
+True,6570116439,7,Fnatic,Dragon Knight,0
+False,6570116439,13,Thunder Awaken,Abaddon,1
+False,6570116439,19,Thunder Awaken,Beastmaster,1
+False,6570116439,9,Thunder Awaken,Hoodwink,1
+False,6570116439,1,Thunder Awaken,Shadow Shaman,1
+False,6570116439,21,Thunder Awaken,Ancient Apparition,1
+True,6570116439,22,Fnatic,Lich,0
+False,6570116439,0,Fnatic,Snapfire,0
+True,6570116439,17,Thunder Awaken,Morphling,1
+False,6570116439,10,Fnatic,Spectre,0
+True,6570116439,16,Fnatic,Dark Willow,0
+True,6574739883,14,BOOM Esports,Mars,0
+True,6574739883,16,OG,Chaos Knight,1
+True,6574739883,4,OG,Pugna,1
+False,6574739883,13,BOOM Esports,Storm Spirit,0
+False,6574739883,11,BOOM Esports,Grimstroke,0
+True,6574739883,7,OG,Timbersaw,1
+True,6574739883,23,BOOM Esports,Void Spirit,0
+False,6574739883,21,BOOM Esports,Pangolier,0
+True,6574739883,6,BOOM Esports,Monkey King,0
+False,6574739883,3,BOOM Esports,Razor,0
+False,6574739883,10,OG,Nyx Assassin,1
+False,6574739883,18,OG,Templar Assassin,1
+False,6574739883,20,OG,Kunkka,1
+True,6574739883,22,OG,Ember Spirit,1
+False,6574739883,19,BOOM Esports,Invoker,0
+False,6574739883,1,BOOM Esports,Enigma,0
+False,6574739883,12,OG,Puck,1
+False,6574739883,0,OG,Treant Protector,1
+False,6574739883,8,OG,Anti-Mage,1
+True,6574739883,5,BOOM Esports,Snapfire,0
+True,6574739883,15,OG,Windranger,1
+False,6574739883,2,OG,Brewmaster,1
+True,6574739883,17,BOOM Esports,Phoenix,0
+False,6574739883,9,BOOM Esports,Earthshaker,0
+True,6575811382,17,Tundra Esports,Mars,1
+True,6575811382,4,Thunder Awaken,Chaos Knight,0
+False,6575811382,3,Tundra Esports,Pugna,1
+False,6575811382,21,Tundra Esports,Storm Spirit,1
+False,6575811382,8,Thunder Awaken,Grimstroke,0
+False,6575811382,9,Tundra Esports,Viper,1
+False,6575811382,1,Tundra Esports,Timbersaw,1
+False,6575811382,0,Thunder Awaken,Visage,0
+False,6575811382,2,Thunder Awaken,Pangolier,0
+True,6575811382,23,Tundra Esports,Wraith King,1
+False,6575811382,19,Tundra Esports,Batrider,1
+True,6575811382,7,Thunder Awaken,Kunkka,0
+False,6575811382,20,Thunder Awaken,Faceless Void,0
+False,6575811382,10,Thunder Awaken,Medusa,0
+False,6575811382,11,Tundra Esports,Mirana,1
+False,6575811382,12,Thunder Awaken,Dragon Knight,0
+True,6575811382,6,Tundra Esports,Beastmaster,1
+True,6575811382,15,Thunder Awaken,Lich,0
+True,6575811382,5,Tundra Esports,Snapfire,1
+False,6575811382,18,Thunder Awaken,Luna,0
+True,6575811382,16,Thunder Awaken,Brewmaster,0
+False,6575811382,13,Tundra Esports,Weaver,1
+True,6575811382,14,Tundra Esports,Phoenix,1
+True,6575811382,22,Thunder Awaken,Rubick,0
+False,6578799684,21,Fnatic,Mars,1
+True,6578799684,4,OG,Chaos Knight,0
+True,6578799684,15,OG,Pugna,0
+False,6578799684,2,OG,Storm Spirit,0
+False,6578799684,19,Fnatic,Viper,1
+False,6578799684,3,Fnatic,Timbersaw,1
+False,6578799684,1,Fnatic,Razor,1
+False,6578799684,11,Fnatic,Templar Assassin,1
+True,6578799684,5,Fnatic,Kunkka,1
+False,6578799684,18,OG,Huskar,0
+False,6578799684,10,OG,Underlord,0
+True,6578799684,16,OG,Ember Spirit,0
+True,6578799684,17,Fnatic,Medusa,1
+False,6578799684,9,Fnatic,Death Prophet,1
+True,6578799684,6,Fnatic,Mirana,1
+False,6578799684,20,OG,Dragon Knight,0
+True,6578799684,7,OG,Enigma,0
+False,6578799684,13,Fnatic,Enchantress,1
+False,6578799684,0,OG,Treant Protector,0
+False,6578799684,12,OG,Brewmaster,0
+True,6578799684,23,Fnatic,Earth Spirit,1
+False,6578799684,8,OG,Rubick,0
+True,6578799684,14,Fnatic,Elder Titan,1
+True,6578799684,22,OG,Centaur Warrunner,0
+False,6580376211,21,Tundra Esports,Mars,0
+False,6580376211,3,Tundra Esports,Chaos Knight,0
+False,6580376211,1,Tundra Esports,Pugna,0
+True,6580376211,6,Tundra Esports,Grimstroke,0
+True,6580376211,4,TSM FTX,Doom,1
+True,6580376211,23,Tundra Esports,Necrophos,0
+False,6580376211,12,TSM FTX,Viper,1
+False,6580376211,0,TSM FTX,Visage,1
+False,6580376211,13,Tundra Esports,Nature's Prophet,0
+True,6580376211,5,Tundra Esports,Pangolier,0
+False,6580376211,11,Tundra Esports,Monkey King,0
+False,6580376211,10,TSM FTX,Batrider,1
+True,6580376211,16,TSM FTX,Templar Assassin,1
+True,6580376211,17,Tundra Esports,Medusa,0
+False,6580376211,20,TSM FTX,Death Prophet,1
+False,6580376211,9,Tundra Esports,Enigma,0
+True,6580376211,7,TSM FTX,Puck,1
+True,6580376211,15,TSM FTX,Enchantress,1
+False,6580376211,2,TSM FTX,Beastmaster,1
+True,6580376211,14,Tundra Esports,Shadow Shaman,0
+False,6580376211,19,Tundra Esports,Anti-Mage,0
+False,6580376211,18,TSM FTX,Venomancer,1
+True,6580376211,22,TSM FTX,Night Stalker,1
+False,6580376211,8,TSM FTX,Lycan,1
+False,6581622092,13,OG,Mars,1
+False,6581622092,3,OG,Chaos Knight,1
+False,6581622092,18,Tundra Esports,Storm Spirit,0
+False,6581622092,9,OG,Grimstroke,1
+True,6581622092,4,Tundra Esports,Doom,0
+False,6581622092,19,OG,Keeper of the Light,1
+True,6581622092,6,OG,Viper,1
+False,6581622092,0,Tundra Esports,Timbersaw,0
+True,6581622092,7,Tundra Esports,Visage,0
+False,6581622092,12,Tundra Esports,Nature's Prophet,0
+False,6581622092,11,OG,Pangolier,1
+True,6581622092,5,OG,Monkey King,1
+True,6581622092,17,OG,Razor,1
+False,6581622092,21,OG,Batrider,1
+False,6581622092,8,Tundra Esports,Faceless Void,0
+True,6581622092,22,Tundra Esports,Invoker,0
+False,6581622092,2,Tundra Esports,Enigma,0
+True,6581622092,23,OG,Puck,1
+False,6581622092,20,Tundra Esports,Queen of Pain,0
+False,6581622092,1,OG,Beastmaster,1
+True,6581622092,15,Tundra Esports,Lich,0
+True,6581622092,14,OG,Windranger,1
+True,6581622092,16,Tundra Esports,Juggernaut,0
+False,6581622092,10,Tundra Esports,Weaver,0
+False,6582140888,12,TSM FTX,Mars,0
+False,6582140888,1,OG,Chaos Knight,1
+True,6582140888,4,TSM FTX,Pugna,0
+True,6582140888,5,OG,Storm Spirit,1
+True,6582140888,16,TSM FTX,Doom,0
+False,6582140888,8,TSM FTX,Viper,0
+False,6582140888,0,TSM FTX,Timbersaw,0
+True,6582140888,15,TSM FTX,Nature's Prophet,0
+True,6582140888,23,OG,Monkey King,1
+False,6582140888,11,OG,Wraith King,1
+False,6582140888,2,TSM FTX,Razor,0
+False,6582140888,18,TSM FTX,Kunkka,0
+False,6582140888,10,TSM FTX,Underlord,0
+False,6582140888,13,OG,Medusa,1
+False,6582140888,21,OG,Death Prophet,1
+False,6582140888,3,OG,Enigma,1
+True,6582140888,7,TSM FTX,Puck,0
+False,6582140888,19,OG,Beastmaster,1
+False,6582140888,9,OG,Shadow Shaman,1
+True,6582140888,6,OG,Snapfire,1
+True,6582140888,14,OG,Windranger,1
+True,6582140888,17,OG,Night Stalker,1
+False,6582140888,20,TSM FTX,Juggernaut,0
+True,6582140888,22,TSM FTX,Dark Seer,0
+False,6571738707,3,Thunder Awaken,Chaos Knight,1
+False,6571738707,1,Thunder Awaken,Pugna,1
+False,6571738707,0,TSM FTX,Timbersaw,0
+False,6571738707,21,Thunder Awaken,Shadow Demon,1
+True,6571738707,7,TSM FTX,Pangolier,0
+False,6571738707,10,TSM FTX,Monkey King,0
+True,6571738707,5,Thunder Awaken,Sand King,1
+False,6571738707,8,TSM FTX,Tiny,0
+True,6571738707,17,Thunder Awaken,Kunkka,1
+False,6571738707,13,Thunder Awaken,Underlord,1
+True,6571738707,6,Thunder Awaken,Mirana,1
+True,6571738707,14,Thunder Awaken,Abaddon,1
+True,6571738707,15,TSM FTX,Enigma,0
+False,6571738707,9,Thunder Awaken,Beastmaster,1
+True,6571738707,4,TSM FTX,Shadow Shaman,0
+False,6571738707,12,TSM FTX,Ursa,0
+False,6571738707,19,Thunder Awaken,Undying,1
+False,6571738707,2,TSM FTX,Snapfire,0
+True,6571738707,16,TSM FTX,Spectre,0
+False,6571738707,18,TSM FTX,Phantom Assassin,0
+False,6571738707,20,TSM FTX,Gyrocopter,0
+False,6571738707,11,Thunder Awaken,Brewmaster,1
+True,6571738707,23,Thunder Awaken,Alchemist,1
+True,6571738707,22,TSM FTX,Omniknight,0
+False,6573407404,1,OG,Chaos Knight,0
+False,6573407404,3,OG,Pugna,0
+False,6573407404,9,OG,Storm Spirit,0
+False,6573407404,19,OG,Necrophos,0
+True,6573407404,4,TSM FTX,Keeper of the Light,1
+False,6573407404,21,OG,Viper,0
+True,6573407404,5,OG,Timbersaw,0
+True,6573407404,15,TSM FTX,Pangolier,1
+True,6573407404,7,TSM FTX,Monkey King,1
+False,6573407404,0,TSM FTX,Razor,1
+False,6573407404,12,TSM FTX,Templar Assassin,1
+True,6573407404,17,OG,Ember Spirit,0
+False,6573407404,11,OG,Leshrac,0
+False,6573407404,18,TSM FTX,Bloodseeker,1
+False,6573407404,2,TSM FTX,Enigma,1
+False,6573407404,10,TSM FTX,Puck,1
+True,6573407404,14,OG,Bane,0
+False,6573407404,8,TSM FTX,Windranger,1
+True,6573407404,23,OG,Phantom Assassin,0
+True,6573407404,22,TSM FTX,Night Stalker,1
+False,6573407404,20,TSM FTX,Juggernaut,1
+False,6573407404,13,OG,Rubick,0
+True,6573407404,6,OG,Earthshaker,0
+True,6573407404,16,TSM FTX,Silencer,1
+True,6574603408,4,BetBoom Team,Chaos Knight,1
+False,6574603408,0,BetBoom Team,Pugna,1
+False,6574603408,2,BetBoom Team,Storm Spirit,1
+True,6574603408,7,BetBoom Team,Grimstroke,1
+True,6574603408,16,BetBoom Team,Doom,1
+False,6574603408,19,Team Liquid,Necrophos,0
+False,6574603408,20,BetBoom Team,Timbersaw,1
+False,6574603408,1,Team Liquid,Visage,0
+False,6574603408,3,Team Liquid,Nature's Prophet,0
+True,6574603408,15,BetBoom Team,Void Spirit,1
+True,6574603408,6,Team Liquid,Pangolier,0
+False,6574603408,8,BetBoom Team,Batrider,1
+False,6574603408,12,BetBoom Team,Templar Assassin,1
+True,6574603408,22,BetBoom Team,Underlord,1
+False,6574603408,9,Team Liquid,Death Prophet,0
+False,6574603408,18,BetBoom Team,Enigma,1
+True,6574603408,14,Team Liquid,Winter Wyvern,0
+False,6574603408,13,Team Liquid,Puck,0
+False,6574603408,21,Team Liquid,Ancient Apparition,0
+True,6574603408,5,Team Liquid,Snapfire,0
+False,6574603408,10,BetBoom Team,Spectre,1
+True,6574603408,17,Team Liquid,Lone Druid,0
+False,6574603408,11,Team Liquid,Skywrath Mage,0
+True,6574603408,23,Team Liquid,Rubick,0
+False,6578511105,3,BetBoom Team,Chaos Knight,0
+False,6578511105,1,BetBoom Team,Pugna,0
+True,6578511105,4,beastcoast,Storm Spirit,1
+True,6578511105,5,BetBoom Team,Grimstroke,0
+True,6578511105,6,BetBoom Team,Doom,0
+False,6578511105,20,beastcoast,Necrophos,1
+False,6578511105,0,beastcoast,Visage,1
+False,6578511105,2,beastcoast,Nature's Prophet,1
+False,6578511105,12,beastcoast,Void Spirit,1
+False,6578511105,19,BetBoom Team,Troll Warlord,0
+False,6578511105,10,beastcoast,Pangolier,1
+False,6578511105,13,BetBoom Team,Wraith King,0
+False,6578511105,11,BetBoom Team,Tiny,0
+True,6578511105,7,beastcoast,Batrider,1
+True,6578511105,17,BetBoom Team,Leshrac,0
+False,6578511105,18,beastcoast,Death Prophet,1
+False,6578511105,9,BetBoom Team,Bloodseeker,0
+True,6578511105,14,BetBoom Team,Abaddon,0
+False,6578511105,8,beastcoast,Puck,1
+True,6578511105,16,beastcoast,Spirit Breaker,1
+True,6578511105,23,BetBoom Team,Ursa,0
+False,6578511105,21,BetBoom Team,Luna,0
+True,6578511105,22,beastcoast,Juggernaut,1
+True,6578511105,15,beastcoast,Rubick,1
+True,6578909443,4,Fnatic,Chaos Knight,0
+False,6578909443,1,OG,Storm Spirit,1
+False,6578909443,9,OG,Grimstroke,1
+False,6578909443,19,OG,Doom,1
+True,6578909443,15,Fnatic,Keeper of the Light,0
+False,6578909443,21,OG,Viper,1
+False,6578909443,0,Fnatic,Timbersaw,0
+True,6578909443,14,OG,Jakiro,1
+False,6578909443,12,Fnatic,Troll Warlord,0
+True,6578909443,6,OG,Pangolier,1
+False,6578909443,2,Fnatic,Razor,0
+False,6578909443,3,OG,Kunkka,1
+False,6578909443,8,Fnatic,Underlord,0
+False,6578909443,18,Fnatic,Lifestealer,0
+True,6578909443,16,Fnatic,Ember Spirit,0
+False,6578909443,11,OG,Death Prophet,1
+True,6578909443,5,OG,Enigma,1
+True,6578909443,22,Fnatic,Hoodwink,0
+True,6578909443,17,OG,Tidehunter,1
+True,6578909443,7,Fnatic,Treant Protector,0
+False,6578909443,10,Fnatic,Windranger,0
+True,6578909443,23,OG,Morphling,1
+False,6578909443,20,Fnatic,Juggernaut,0
+False,6578909443,13,OG,Rubick,1
+False,6580016442,3,OG,Chaos Knight,1
+True,6580016442,4,Thunder Awaken,Pugna,0
+True,6580016442,7,Thunder Awaken,Storm Spirit,0
+False,6580016442,20,Thunder Awaken,Grimstroke,0
+True,6580016442,22,Thunder Awaken,Terrorblade,0
+True,6580016442,6,OG,Viper,1
+False,6580016442,13,OG,Nature's Prophet,1
+False,6580016442,12,Thunder Awaken,Pangolier,0
+True,6580016442,5,OG,Monkey King,1
+True,6580016442,16,Thunder Awaken,Sand King,0
+False,6580016442,2,Thunder Awaken,Razor,0
+False,6580016442,1,OG,Tiny,1
+True,6580016442,14,OG,Nyx Assassin,1
+True,6580016442,17,OG,Kunkka,1
+True,6580016442,23,OG,Faceless Void,1
+False,6580016442,19,OG,Lifestealer,1
+True,6580016442,15,Thunder Awaken,Mirana,0
+False,6580016442,8,Thunder Awaken,Invoker,0
+False,6580016442,18,Thunder Awaken,Abaddon,0
+False,6580016442,0,Thunder Awaken,Enigma,0
+False,6580016442,10,Thunder Awaken,Puck,0
+False,6580016442,11,OG,Beastmaster,1
+False,6580016442,21,OG,Juggernaut,1
+False,6580016442,9,OG,Weaver,1
+False,6580245004,1,Tundra Esports,Chaos Knight,1
+False,6580245004,3,Tundra Esports,Pugna,1
+True,6580245004,6,Tundra Esports,Grimstroke,1
+True,6580245004,5,Tundra Esports,Doom,1
+False,6580245004,18,TSM FTX,Necrophos,0
+False,6580245004,20,TSM FTX,Viper,0
+False,6580245004,0,TSM FTX,Visage,0
+False,6580245004,19,Tundra Esports,Nature's Prophet,1
+False,6580245004,8,TSM FTX,Pangolier,0
+False,6580245004,11,Tundra Esports,Monkey King,1
+False,6580245004,9,Tundra Esports,Wraith King,1
+True,6580245004,23,Tundra Esports,Batrider,1
+False,6580245004,21,Tundra Esports,Kunkka,1
+True,6580245004,15,TSM FTX,Lina,0
+True,6580245004,7,TSM FTX,Underlord,0
+True,6580245004,14,Tundra Esports,Medusa,1
+False,6580245004,2,TSM FTX,Beastmaster,0
+True,6580245004,4,TSM FTX,Shadow Shaman,0
+False,6580245004,13,Tundra Esports,Anti-Mage,1
+False,6580245004,12,TSM FTX,Lycan,0
+False,6580245004,10,TSM FTX,Juggernaut,0
+True,6580245004,22,TSM FTX,Drow Ranger,0
+True,6580245004,17,Tundra Esports,Rubick,1
+True,6580245004,16,TSM FTX,Elder Titan,0
+False,6582012262,1,OG,Chaos Knight,0
+True,6582012262,15,TSM FTX,Pugna,1
+False,6582012262,3,OG,Storm Spirit,0
+False,6582012262,21,OG,Doom,0
+False,6582012262,11,OG,Keeper of the Light,0
+False,6582012262,10,TSM FTX,Viper,1
+False,6582012262,0,TSM FTX,Timbersaw,1
+True,6582012262,7,TSM FTX,Pangolier,1
+True,6582012262,16,TSM FTX,Wraith King,1
+False,6582012262,2,TSM FTX,Razor,1
+False,6582012262,20,TSM FTX,Batrider,1
+True,6582012262,5,OG,Kunkka,0
+True,6582012262,23,OG,Lina,0
+True,6582012262,17,OG,Underlord,0
+True,6582012262,22,TSM FTX,Death Prophet,1
+False,6582012262,18,TSM FTX,Invoker,1
+False,6582012262,12,TSM FTX,Bloodseeker,1
+True,6582012262,4,TSM FTX,Enigma,1
+False,6582012262,8,TSM FTX,Puck,1
+False,6582012262,9,OG,Enchantress,0
+False,6582012262,13,OG,Bane,0
+False,6582012262,19,OG,Shadow Shaman,0
+True,6582012262,6,OG,Windranger,0
+True,6582012262,14,OG,Rubick,0
+False,6582249405,1,OG,Chaos Knight,1
+True,6582249405,4,TSM FTX,Pugna,0
+False,6582249405,9,OG,Doom,1
+False,6582249405,8,TSM FTX,Viper,0
+False,6582249405,0,TSM FTX,Timbersaw,0
+True,6582249405,7,TSM FTX,Monkey King,0
+True,6582249405,16,TSM FTX,Wraith King,0
+False,6582249405,2,TSM FTX,Razor,0
+True,6582249405,23,OG,Templar Assassin,1
+False,6582249405,20,TSM FTX,Faceless Void,0
+True,6582249405,15,TSM FTX,Leshrac,0
+False,6582249405,11,OG,Death Prophet,1
+True,6582249405,14,OG,Mirana,1
+True,6582249405,6,OG,Dragon Knight,1
+True,6582249405,17,OG,Invoker,1
+False,6582249405,13,OG,Abaddon,1
+False,6582249405,3,OG,Enigma,1
+False,6582249405,19,OG,Beastmaster,1
+False,6582249405,18,TSM FTX,Anti-Mage,0
+True,6582249405,5,OG,Snapfire,1
+False,6582249405,10,TSM FTX,Windranger,0
+True,6582249405,22,TSM FTX,Night Stalker,0
+False,6582249405,21,OG,Brewmaster,1
+False,6582249405,12,TSM FTX,Phoenix,0

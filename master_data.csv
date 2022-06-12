@@ -1,0 +1,245 @@
+start_time,match_id,series_id,radiant_win,side,team,win
+2022-05-12,6566556663,666722,False,radiant_team,Evil Geniuses,0
+2022-05-14,6569502056,667297,False,radiant_team,beastcoast,0
+2022-05-13,6568000902,666972,True,radiant_team,BetBoom Team,1
+2022-05-13,6568099598,666988,False,radiant_team,OG,0
+2022-05-22,6581700268,669715,True,radiant_team,OG,1
+2022-05-14,6569733548,667334,False,radiant_team,BOOM Esports,0
+2022-05-15,6571204733,667592,False,radiant_team,T1,0
+2022-05-18,6575811382,668557,False,radiant_team,Thunder Awaken,0
+2022-05-21,6580245004,669427,False,radiant_team,TSM FTX,0
+2022-05-21,6580376211,669427,True,radiant_team,TSM FTX,1
+2022-05-21,6580504708,669427,True,radiant_team,TSM FTX,1
+2022-05-16,6572659357,668020,False,radiant_team,Team Spirit,0
+2022-05-16,6572822253,668020,False,radiant_team,Team Spirit,0
+2022-05-12,6566781397,666748,False,radiant_team,Evil Geniuses,0
+2022-05-13,6568101177,666989,True,radiant_team,beastcoast,1
+2022-05-13,6568003158,666974,False,radiant_team,OG,0
+2022-05-15,6571280989,667592,True,radiant_team,Tundra Esports,1
+2022-05-18,6575506610,668524,True,radiant_team,Fnatic,1
+2022-05-18,6575589562,668524,False,radiant_team,Fnatic,0
+2022-05-18,6575685774,668524,True,radiant_team,Fnatic,1
+2022-05-16,6573503063,668138,True,radiant_team,Gaimin Gladiators,1
+2022-05-13,6568101413,666990,True,radiant_team,Evil Geniuses,1
+2022-05-13,6567999161,666975,False,radiant_team,beastcoast,0
+2022-05-12,6566559541,666724,False,radiant_team,BetBoom Team,0
+2022-05-12,6566627889,666724,True,radiant_team,BetBoom Team,1
+2022-05-12,6566885647,666744,True,radiant_team,OG,1
+2022-05-17,6574739883,668354,True,radiant_team,OG,1
+2022-05-14,6569867107,667334,True,radiant_team,Tundra Esports,1
+2022-05-14,6569495782,667295,False,radiant_team,T1,0
+2022-05-14,6569582522,667295,True,radiant_team,T1,1
+2022-05-14,6569705664,667327,False,radiant_team,Evil Geniuses,0
+2022-05-12,6566559037,666723,False,radiant_team,beastcoast,0
+2022-05-15,6571200692,667589,False,radiant_team,BetBoom Team,0
+2022-05-13,6568188836,666988,True,radiant_team,Tundra Esports,1
+2022-05-22,6581622092,669715,False,radiant_team,Tundra Esports,0
+2022-05-12,6566767216,666744,True,radiant_team,BOOM Esports,1
+2022-05-17,6574848748,668354,False,radiant_team,BOOM Esports,0
+2022-05-13,6567920917,666974,True,radiant_team,T1,1
+2022-05-21,6580016442,669374,False,radiant_team,Thunder Awaken,0
+2022-05-20,6578674296,669098,False,radiant_team,Fnatic,0
+2022-05-20,6578909443,669098,False,radiant_team,Fnatic,0
+2022-05-16,6573407404,668094,True,radiant_team,TSM FTX,1
+2022-05-22,6582012262,669760,True,radiant_team,TSM FTX,1
+2022-05-22,6582140888,669760,False,radiant_team,TSM FTX,0
+2022-05-22,6582249405,669760,False,radiant_team,TSM FTX,0
+2022-05-22,6582379623,669760,False,radiant_team,TSM FTX,0
+2022-05-21,6580625364,669498,False,radiant_team,Gaimin Gladiators,0
+2022-05-15,6571201844,667590,True,radiant_team,Evil Geniuses,1
+2022-05-15,6571305244,667590,False,radiant_team,Evil Geniuses,0
+2022-05-12,6566744482,666738,True,radiant_team,BetBoom Team,1
+2022-05-20,6578511105,669060,False,radiant_team,BetBoom Team,0
+2022-05-12,6566631729,666723,True,radiant_team,OG,1
+2022-05-14,6569623765,667297,True,radiant_team,Tundra Esports,1
+2022-05-13,6567928490,666975,False,radiant_team,BOOM Esports,0
+2022-05-13,6568237950,666989,True,radiant_team,T1,1
+2022-05-20,6579091075,669194,True,radiant_team,Gaimin Gladiators,1
+2022-05-12,6566840888,666738,True,radiant_team,beastcoast,1
+2022-05-20,6578354994,669060,False,radiant_team,beastcoast,0
+2022-05-20,6578432820,669060,True,radiant_team,beastcoast,1
+2022-05-15,6571306390,667589,True,radiant_team,OG,1
+2022-05-13,6567917643,666972,True,radiant_team,Tundra Esports,1
+2022-05-14,6569732558,667333,False,radiant_team,T1,0
+2022-05-14,6569845922,667333,False,radiant_team,T1,0
+2022-05-16,6573058524,668051,False,radiant_team,Thunder Awaken,0
+2022-05-17,6574603408,668295,False,radiant_team,Team Liquid,0
+2022-05-17,6574108422,668267,True,radiant_team,beastcoast,1
+2022-05-17,6574188575,668267,True,radiant_team,beastcoast,1
+2022-05-16,6572725458,668020,False,radiant_team,Tundra Esports,0
+2022-05-13,6568705223,667074,False,radiant_team,Thunder Awaken,0
+2022-05-15,6571965781,667824,True,radiant_team,Thunder Awaken,1
+2022-05-12,6567037281,666783,False,radiant_team,Fnatic,0
+2022-05-12,6567132607,666783,False,radiant_team,Fnatic,0
+2022-05-13,6568401515,667037,True,radiant_team,TSM FTX,1
+2022-05-13,6568508914,667037,False,radiant_team,TSM FTX,0
+2022-05-12,6567245668,666837,True,radiant_team,Gaimin Gladiators,1
+2022-05-12,6567330746,666837,True,radiant_team,Gaimin Gladiators,1
+2022-05-20,6579165262,669194,False,radiant_team,beastcoast,0
+2022-05-21,6580732041,669498,True,radiant_team,OG,1
+2022-05-16,6573568264,668138,False,radiant_team,T1,0
+2022-05-14,6570391220,667437,True,radiant_team,Thunder Awaken,1
+2022-05-15,6571442714,667641,False,radiant_team,Fnatic,0
+2022-05-12,6567037682,666784,True,radiant_team,TSM FTX,1
+2022-05-18,6576116877,668626,True,radiant_team,TSM FTX,1
+2022-05-14,6569495972,667296,True,radiant_team,BetBoom Team,1
+2022-05-14,6569577483,667296,True,radiant_team,BetBoom Team,1
+2022-05-12,6566656802,666722,True,radiant_team,Tundra Esports,1
+2022-05-13,6568205642,666990,True,radiant_team,BOOM Esports,1
+2022-05-12,6566878745,666748,True,radiant_team,T1,1
+2022-05-16,6572937926,668051,False,radiant_team,BetBoom Team,0
+2022-05-16,6573182161,668051,False,radiant_team,BetBoom Team,0
+2022-05-21,6579931950,669374,True,radiant_team,OG,1
+2022-05-18,6575974930,668557,True,radiant_team,Tundra Esports,1
+2022-05-15,6571446779,667643,False,radiant_team,TSM FTX,0
+2022-05-15,6571738707,667749,False,radiant_team,TSM FTX,0
+2022-05-14,6570288241,667437,True,radiant_team,Gaimin Gladiators,1
+2022-05-13,6568623245,667074,True,radiant_team,Team Spirit,1
+2022-05-17,6574385083,668295,False,radiant_team,BetBoom Team,0
+2022-05-17,6574482766,668295,True,radiant_team,BetBoom Team,1
+2022-05-12,6567029565,666781,True,radiant_team,Thunder Awaken,1
+2022-05-12,6567147786,666781,True,radiant_team,Thunder Awaken,1
+2022-05-15,6571843720,667784,True,radiant_team,Thunder Awaken,1
+2022-05-13,6568412845,667039,True,radiant_team,Fnatic,1
+2022-05-13,6568523627,667039,False,radiant_team,Fnatic,0
+2022-05-14,6570172820,667376,True,radiant_team,TSM FTX,1
+2022-05-13,6568647082,667090,False,radiant_team,Gaimin Gladiators,0
+2022-05-13,6568751767,667090,False,radiant_team,Gaimin Gladiators,0
+2022-05-14,6570284918,667433,False,radiant_team,Team Spirit,0
+2022-05-14,6570398588,667433,False,radiant_team,Team Spirit,0
+2022-05-15,6571732248,667745,True,radiant_team,Team Spirit,1
+2022-05-16,6573291227,668094,False,radiant_team,OG,0
+2022-05-15,6571554679,667643,False,radiant_team,Thunder Awaken,0
+2022-05-12,6567327850,666834,True,radiant_team,Fnatic,1
+2022-05-12,6567143852,666784,True,radiant_team,Gaimin Gladiators,1
+2022-05-18,6576223979,668626,False,radiant_team,Gaimin Gladiators,0
+2022-05-15,6571843204,667783,False,radiant_team,Team Spirit,0
+2022-05-14,6570018786,667376,False,radiant_team,Team Liquid,0
+2022-05-15,6571966593,667825,False,radiant_team,Team Liquid,0
+2022-05-20,6578799684,669098,False,radiant_team,OG,0
+2022-05-14,6570016479,667375,False,radiant_team,Thunder Awaken,0
+2022-05-14,6570116439,667375,True,radiant_team,Thunder Awaken,1
+2022-05-12,6567240449,666834,False,radiant_team,TSM FTX,0
+2022-05-15,6571582160,667641,True,radiant_team,Gaimin Gladiators,1
+2022-05-12,6566556663,666722,False,dire_team,Tundra Esports,1
+2022-05-14,6569502056,667297,False,dire_team,Tundra Esports,1
+2022-05-13,6568000902,666972,True,dire_team,Tundra Esports,0
+2022-05-13,6568099598,666988,False,dire_team,Tundra Esports,1
+2022-05-22,6581700268,669715,True,dire_team,Tundra Esports,0
+2022-05-14,6569733548,667334,False,dire_team,Tundra Esports,1
+2022-05-15,6571204733,667592,False,dire_team,Tundra Esports,1
+2022-05-18,6575811382,668557,False,dire_team,Tundra Esports,1
+2022-05-21,6580245004,669427,False,dire_team,Tundra Esports,1
+2022-05-21,6580376211,669427,True,dire_team,Tundra Esports,0
+2022-05-21,6580504708,669427,True,dire_team,Tundra Esports,0
+2022-05-16,6572659357,668020,False,dire_team,Tundra Esports,1
+2022-05-16,6572822253,668020,False,dire_team,Tundra Esports,1
+2022-05-12,6566781397,666748,False,dire_team,T1,1
+2022-05-13,6568101177,666989,True,dire_team,T1,0
+2022-05-13,6568003158,666974,False,dire_team,T1,1
+2022-05-15,6571280989,667592,True,dire_team,T1,0
+2022-05-18,6575506610,668524,True,dire_team,T1,0
+2022-05-18,6575589562,668524,False,dire_team,T1,1
+2022-05-18,6575685774,668524,True,dire_team,T1,0
+2022-05-16,6573503063,668138,True,dire_team,T1,0
+2022-05-13,6568101413,666990,True,dire_team,BOOM Esports,0
+2022-05-13,6567999161,666975,False,dire_team,BOOM Esports,1
+2022-05-12,6566559541,666724,False,dire_team,BOOM Esports,1
+2022-05-12,6566627889,666724,True,dire_team,BOOM Esports,0
+2022-05-12,6566885647,666744,True,dire_team,BOOM Esports,0
+2022-05-17,6574739883,668354,True,dire_team,BOOM Esports,0
+2022-05-14,6569867107,667334,True,dire_team,BOOM Esports,0
+2022-05-14,6569495782,667295,False,dire_team,BOOM Esports,1
+2022-05-14,6569582522,667295,True,dire_team,BOOM Esports,0
+2022-05-14,6569705664,667327,False,dire_team,OG,1
+2022-05-12,6566559037,666723,False,dire_team,OG,1
+2022-05-15,6571200692,667589,False,dire_team,OG,1
+2022-05-13,6568188836,666988,True,dire_team,OG,0
+2022-05-22,6581622092,669715,False,dire_team,OG,1
+2022-05-12,6566767216,666744,True,dire_team,OG,0
+2022-05-17,6574848748,668354,False,dire_team,OG,1
+2022-05-13,6567920917,666974,True,dire_team,OG,0
+2022-05-21,6580016442,669374,False,dire_team,OG,1
+2022-05-20,6578674296,669098,False,dire_team,OG,1
+2022-05-20,6578909443,669098,False,dire_team,OG,1
+2022-05-16,6573407404,668094,True,dire_team,OG,0
+2022-05-22,6582012262,669760,True,dire_team,OG,0
+2022-05-22,6582140888,669760,False,dire_team,OG,1
+2022-05-22,6582249405,669760,False,dire_team,OG,1
+2022-05-22,6582379623,669760,False,dire_team,OG,1
+2022-05-21,6580625364,669498,False,dire_team,OG,1
+2022-05-15,6571201844,667590,True,dire_team,beastcoast,0
+2022-05-15,6571305244,667590,False,dire_team,beastcoast,1
+2022-05-12,6566744482,666738,True,dire_team,beastcoast,0
+2022-05-20,6578511105,669060,False,dire_team,beastcoast,1
+2022-05-12,6566631729,666723,True,dire_team,beastcoast,0
+2022-05-14,6569623765,667297,True,dire_team,beastcoast,0
+2022-05-13,6567928490,666975,False,dire_team,beastcoast,1
+2022-05-13,6568237950,666989,True,dire_team,beastcoast,0
+2022-05-20,6579091075,669194,True,dire_team,beastcoast,0
+2022-05-12,6566840888,666738,True,dire_team,BetBoom Team,0
+2022-05-20,6578354994,669060,False,dire_team,BetBoom Team,1
+2022-05-20,6578432820,669060,True,dire_team,BetBoom Team,0
+2022-05-15,6571306390,667589,True,dire_team,BetBoom Team,0
+2022-05-13,6567917643,666972,True,dire_team,BetBoom Team,0
+2022-05-14,6569732558,667333,False,dire_team,BetBoom Team,1
+2022-05-14,6569845922,667333,False,dire_team,BetBoom Team,1
+2022-05-16,6573058524,668051,False,dire_team,BetBoom Team,1
+2022-05-17,6574603408,668295,False,dire_team,BetBoom Team,1
+2022-05-17,6574108422,668267,True,dire_team,Team Spirit,0
+2022-05-17,6574188575,668267,True,dire_team,Team Spirit,0
+2022-05-16,6572725458,668020,False,dire_team,Team Spirit,1
+2022-05-13,6568705223,667074,False,dire_team,Team Spirit,1
+2022-05-15,6571965781,667824,True,dire_team,Team Spirit,0
+2022-05-12,6567037281,666783,False,dire_team,Team Spirit,1
+2022-05-12,6567132607,666783,False,dire_team,Team Spirit,1
+2022-05-13,6568401515,667037,True,dire_team,Team Spirit,0
+2022-05-13,6568508914,667037,False,dire_team,Team Spirit,1
+2022-05-12,6567245668,666837,True,dire_team,Team Spirit,0
+2022-05-12,6567330746,666837,True,dire_team,Team Spirit,0
+2022-05-20,6579165262,669194,False,dire_team,Gaimin Gladiators,1
+2022-05-21,6580732041,669498,True,dire_team,Gaimin Gladiators,0
+2022-05-16,6573568264,668138,False,dire_team,Gaimin Gladiators,1
+2022-05-14,6570391220,667437,True,dire_team,Gaimin Gladiators,0
+2022-05-15,6571442714,667641,False,dire_team,Gaimin Gladiators,1
+2022-05-12,6567037682,666784,True,dire_team,Gaimin Gladiators,0
+2022-05-18,6576116877,668626,True,dire_team,Gaimin Gladiators,0
+2022-05-14,6569495972,667296,True,dire_team,Evil Geniuses,0
+2022-05-14,6569577483,667296,True,dire_team,Evil Geniuses,0
+2022-05-12,6566656802,666722,True,dire_team,Evil Geniuses,0
+2022-05-13,6568205642,666990,True,dire_team,Evil Geniuses,0
+2022-05-12,6566878745,666748,True,dire_team,Evil Geniuses,0
+2022-05-16,6572937926,668051,False,dire_team,Thunder Awaken,1
+2022-05-16,6573182161,668051,False,dire_team,Thunder Awaken,1
+2022-05-21,6579931950,669374,True,dire_team,Thunder Awaken,0
+2022-05-18,6575974930,668557,True,dire_team,Thunder Awaken,0
+2022-05-15,6571446779,667643,False,dire_team,Thunder Awaken,1
+2022-05-15,6571738707,667749,False,dire_team,Thunder Awaken,1
+2022-05-14,6570288241,667437,True,dire_team,Thunder Awaken,0
+2022-05-13,6568623245,667074,True,dire_team,Thunder Awaken,0
+2022-05-17,6574385083,668295,False,dire_team,Team Liquid,1
+2022-05-17,6574482766,668295,True,dire_team,Team Liquid,0
+2022-05-12,6567029565,666781,True,dire_team,Team Liquid,0
+2022-05-12,6567147786,666781,True,dire_team,Team Liquid,0
+2022-05-15,6571843720,667784,True,dire_team,Team Liquid,0
+2022-05-13,6568412845,667039,True,dire_team,Team Liquid,0
+2022-05-13,6568523627,667039,False,dire_team,Team Liquid,1
+2022-05-14,6570172820,667376,True,dire_team,Team Liquid,0
+2022-05-13,6568647082,667090,False,dire_team,Team Liquid,1
+2022-05-13,6568751767,667090,False,dire_team,Team Liquid,1
+2022-05-14,6570284918,667433,False,dire_team,Team Liquid,1
+2022-05-14,6570398588,667433,False,dire_team,Team Liquid,1
+2022-05-15,6571732248,667745,True,dire_team,Team Liquid,0
+2022-05-16,6573291227,668094,False,dire_team,TSM FTX,1
+2022-05-15,6571554679,667643,False,dire_team,TSM FTX,1
+2022-05-12,6567327850,666834,True,dire_team,TSM FTX,0
+2022-05-12,6567143852,666784,True,dire_team,TSM FTX,0
+2022-05-18,6576223979,668626,False,dire_team,TSM FTX,1
+2022-05-15,6571843204,667783,False,dire_team,TSM FTX,1
+2022-05-14,6570018786,667376,False,dire_team,TSM FTX,1
+2022-05-15,6571966593,667825,False,dire_team,TSM FTX,1
+2022-05-20,6578799684,669098,False,dire_team,Fnatic,1
+2022-05-14,6570016479,667375,False,dire_team,Fnatic,1
+2022-05-14,6570116439,667375,True,dire_team,Fnatic,0
+2022-05-12,6567240449,666834,False,dire_team,Fnatic,1
+2022-05-15,6571582160,667641,True,dire_team,Fnatic,0
