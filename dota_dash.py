@@ -118,7 +118,7 @@ with col7:
 # Grouping win-rate by side
 winrate_side = master_data.groupby('side')['win'].mean()
 
-col8, col9 = st.columns(2)
+col8, col9 = st.columns((1.5,1))
 with col8:
     ## Win Rate by Side (7)
     st.write('Win Rate by Side')
@@ -130,7 +130,7 @@ with col8:
 with col9:
     ## Series Results (8)
     st.write('Series Results')
-    st.dataframe(series_result,height=540)
+    st.dataframe(series_result,height=530)
 
 
 ## Win-rate by Hero (9)
