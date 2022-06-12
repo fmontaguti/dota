@@ -130,7 +130,7 @@ with col8:
 with col9:
     ## Series Results (8)
     st.write('Series Results')
-    st.dataframe(series_result.iloc[:,1:6],height=590, width=800)
+    st.dataframe(series_result.iloc[:,1:6],height=550)
 
 
 ## Win-rate by Hero (9)
