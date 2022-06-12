@@ -4,7 +4,6 @@ Created on Mon Jun  6 23:08:41 2022
 
 @author: fmontaguti
 """
-#import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -12,10 +11,6 @@ import streamlit as st
 
 plt.style.use('ggplot')
 st.set_page_config(layout="wide")
-
-# Check diretory
-#os.getcwd()
-#os.chdir("C:/Users/fmontaguti/Desktop/Dota")
 
 ## Reading Data
 esl_data = pd.read_csv('esl_data.csv')
@@ -46,8 +41,8 @@ st.title('ESL One Stockholm 2022 - Dota 2 Major Overview')
 st.subheader('Streamlit App by [Fernando Hold Montaguti](https://www.linkedin.com/in/fernando-hold-montaguti-1ab8a3145/)')
 st.write('Dota 2 is one of the most played games on Steam, its a MOBA style-game with RPG elements where Radiant and Dire team fight against each other'
          ' in a 10 players match. ESL One Stockholm was the first Major of Dota Pro Circuit 2021/2022 with crowd in over 2 years. The overall prize money'
-         ' was $ 500,000 and the event also have other activities like cosplay constest and signing sessions with the pro-players.')
-st.write('The data was extracted using OpenDotaAPI, if you want to see the extraction and transformation check my dota.py on my github.')
+         ' was $ 500,000 and the event also had other activities like cosplay constest and signing sessions with the pro-players.')
+st.write('The data was extracted using OpenDota API, if you want to see the extraction and transformation check my dota.py on my github.')
 st.subheader('Tournament')
 ## Two first plots
 col1, col2 = st.columns(2) 
@@ -135,7 +130,7 @@ with col8:
 with col9:
     ## Series Results (8)
     st.write('Series Results')
-    st.dataframe(series_result.iloc[:,1:6],height=590)
+    st.dataframe(series_result.iloc[:,1:6],height=590, width=300)
 
 
 ## Win-rate by Hero (9)
@@ -169,3 +164,14 @@ ax.set_xticklabels(hero_win['hero'], rotation=45, ha='right')
 ax.axhline(0.5,color='black')
 ax.set_title(label ='Win Rate '+ str(option5) + ' ' + option3 + ' Heros')
 st.pyplot(fig)
+
+st.subheader('Author')
+st.write('Please feel free to contact me with any issues, comments, or questions.')
+st.write('Fernando Hold Montaguti')
+col13, col14, col15 = st.columns((1,2,1))
+with col13:
+    st.write('Email: fmontaguti2@gmail.com')
+with col14:
+    st.write('Linkedin: https://www.linkedin.com/in/fernando-hold-montaguti-1ab8a3145/')
+with col15:
+    st.write('Github: https://github.com/fmontaguti')
