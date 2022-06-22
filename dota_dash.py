@@ -38,7 +38,7 @@ with st.sidebar:
     
 ## Title
 st.title('ESL One Stockholm 2022 - Dota 2 Major Overview')
-st.subheader('Streamlit App by [Fernando Hold Montaguti](https://www.linkedin.com/in/fernando-hold-montaguti-1ab8a3145/)')
+st.subheader('Streamlit App by [Fernando Hold Montaguti](https://www.linkedin.com/in/fhmontaguti/)')
 st.write('Dota 2 is one of the most played games on Steam, its a MOBA style-game with RPG elements where Radiant and Dire team fight against each other'
          ' in a 10 players match. ESL One Stockholm was the first Major of Dota Pro Circuit 2021/2022 with crowd in over 2 years. The overall prize money'
          ' was $ 500,000 and the event also had other activities like cosplay constest and signing sessions with the pro-players.')
@@ -172,6 +172,6 @@ col13, col14, col15 = st.columns((1,2,1))
 with col13:
     st.write('Email: fmontaguti2@gmail.com')
 with col14:
-    st.write('Linkedin: https://www.linkedin.com/in/fernando-hold-montaguti-1ab8a3145/')
+    st.write('Linkedin: https://www.linkedin.com/in/fhmontaguti/')
 with col15:
     st.write('Github: https://github.com/fmontaguti')
