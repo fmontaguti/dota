@@ -168,7 +168,7 @@ st.pyplot(fig)
 st.subheader('Author')
 st.write('Please feel free to contact me with any issues, comments, or questions.')
 st.write('Fernando Hold Montaguti')
-col13, col14, col15 = st.columns((1,2,1))
+col13, col14, col15 = st.columns(3)
 with col13:
     st.write('Email: fmontaguti2@gmail.com')
 with col14:
